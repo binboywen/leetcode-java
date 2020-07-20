@@ -1,6 +1,6 @@
 package pack_problem;
 import java.util.*;
-public class _1_01背包 {
+public class _01_01背包 {
     /**
      * 有 N 件物品和一个容量是 V 的背包。每件物品只能使用一次。
      * 第 i 件物品的体积是 vi，价值是 wi。

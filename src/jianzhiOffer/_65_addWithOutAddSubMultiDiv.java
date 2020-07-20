@@ -1,5 +1,5 @@
 package jianzhiOffer;
-
+import java.util.*;
 /**
  * 写一个函数，求两个整数之和，不能使用加减乘除四则运算符号
  * a ^ b 表示没有考虑进位的情况下两数的和，(a & b) << 1 就是进位。
@@ -10,7 +10,7 @@ public class _65_addWithOutAddSubMultiDiv {
     public int Add(int a, int b) {
         return b == 0 ? a : Add(a ^ b, (a & b) << 1);
     }
-
+    HashMap<Integer,Integer> hashMap = new HashMap<>();
     public int Add_(int num1, int num2){
         int sum,carry;
         do{

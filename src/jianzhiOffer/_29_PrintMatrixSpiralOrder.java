@@ -1,5 +1,7 @@
 package jianzhiOffer;
 
+import java.util.LinkedList;
+import java.util.Queue;
 import java.util.Stack;
 
 /**
@@ -15,6 +17,8 @@ public class _29_PrintMatrixSpiralOrder {
             printEdge(matrix, tR++, tC++, dR--, dC--);
         }
         Stack<Integer> stack = new Stack<>();
+        Queue<Integer> queue = new LinkedList<>();
+        int length = queue.size();
     }
 
     public static void printEdge(int [][] m, int tR, int tC, int dR, int dC){

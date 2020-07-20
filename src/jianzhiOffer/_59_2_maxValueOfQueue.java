@@ -29,7 +29,7 @@ public class _59_2_maxValueOfQueue {
 
         public int pop(){
             if(this.queueData.isEmpty()){
-                throw new RuntimeException("Your stack is empty.");
+                throw new RuntimeException("Your queue is empty.");
             }
             int value = this.queueData.poll();
             if(value == this.getMax()){

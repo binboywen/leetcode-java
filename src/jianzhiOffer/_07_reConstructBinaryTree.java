@@ -7,7 +7,7 @@ import java.util.Map;
  * 根据二叉树的前序遍历和中序遍历的结果，重建出该二叉树。
  * 假设输入的前序遍历和中序遍历的结果中都不含重复的数字。
  */
-public class _7_reConstructBinaryTree {
+public class _07_reConstructBinaryTree {
     /**
      * 前序中序建立二叉树
      *
@@ -97,13 +97,28 @@ public class _7_reConstructBinaryTree {
         }
         return root;
     }
+    public static void posOrderRecur(TreeNode head) {
+        if (head == null) {
+            return;
+        }
+        posOrderRecur(head.left);
+        posOrderRecur(head.right);
+        System.out.print(head.val + " ");
+    }
+    public static int f(int x){
 
-
+        System.out.println(1);
+        if(x <= 2)
+            return 1;
+        return f(x-2) + f(x-4) +1;
+    }
     public static void main(String[] args) {
-        int[] preOrder = {1, 2, 4, 7, 3, 5, 6, 8};
-        int[] inOrder = {4, 7, 2, 1, 5, 3, 8, 6};
+        int[] preOrder = {1, 4, 3, 5, 6, 7, 8, 2};
+        int[] inOrder = {3, 4, 6,5, 7, 8, 1, 2};
         TreeNode result = reConstructBinaryTree(preOrder, inOrder);
+        posOrderRecur(result);
         System.out.println("-------");
+        int a  = f(10);
     }
 
 }

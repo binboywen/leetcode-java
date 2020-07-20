@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../written_examination/Alibaba/AliBaBa.iml" filepath="$PROJECT_DIR$/../written_examination/Alibaba/AliBaBa.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../s2gciy/miaosha_2/miaosha.iml" filepath="$PROJECT_DIR$/../s2gciy/miaosha_2/miaosha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../s2gciy/miaosha_1/miaosha_1.iml" filepath="$PROJECT_DIR$/../s2gciy/miaosha_1/miaosha_1.iml" />
     </modules>
   </component>
 </project>

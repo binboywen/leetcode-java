@@ -6,7 +6,7 @@ import java.util.Stack;
 /**
  * 从尾到头反过来打印出每个结点的值。
  */
-public class _6_printListFromTailToHead {
+public class _06_printListFromTailToHead {
     /**
      * 使用递归
      * 要逆序打印链表 1->2->3（3,2,1)，可以先逆序打印链表 2->3(3,2)，

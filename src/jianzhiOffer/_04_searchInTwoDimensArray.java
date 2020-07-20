@@ -13,7 +13,7 @@ package jianzhiOffer;
  * Given target = 20, return false.
  * 时间复杂度 O(M + N)，空间复杂度 O(1)。其中 M 为行数，N 为 列数
  */
-public class _4_searchInTwoDimensArray {
+public class _04_searchInTwoDimensArray {
     public static boolean serchInTwoDimensArray(int target, int [][] matrix){
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0)
             return false;

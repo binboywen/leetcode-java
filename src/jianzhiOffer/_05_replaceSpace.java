@@ -1,6 +1,8 @@
 package jianzhiOffer;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.Queue;
 
 /**
  * 将一个字符串中的空格替换成 "%20"。
@@ -15,10 +17,12 @@ import java.util.ArrayList;
  * 就需要令 P2 指向的位置依次填充 02%（注意是逆序的），否则就填充上 P1 指向字符的值。
  * 从后向前遍是为了在改变 P2 所指向的内容时，不会影响到 P1 遍历原来字符串的内容。
  */
-public class _5_replaceSpace {
+public class _05_replaceSpace {
     public static String replaceSpace(StringBuffer str){
         String string = new String("aaa");
         int lengtth = string.length();
+        Queue<Integer> queue = new LinkedList<>();
+
         ArrayList list = new ArrayList();
         int P1 = str.length() -1;
         for (int i = 0; i <= P1; i++){

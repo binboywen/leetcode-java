@@ -112,8 +112,12 @@ public class _0_Calculator {
     }
 
     public static void main(String[] args) {
-        String exp = "9+(3-1)*3+10/2";
-        char[] brr = middleToBack(exp);
-        calculate(brr);
+//        String exp = "3-10/8+5*2";
+//        char[] brr = middleToBack(exp);
+//        calculate(brr);
+        int a = 3,b=5,c=4;
+        int sum = a&b << c + a^c;
+
+        System.out.println(sum);
     }
 }

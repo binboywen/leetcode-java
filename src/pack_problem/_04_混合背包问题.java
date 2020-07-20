@@ -11,7 +11,7 @@ class Thing{
         value = va;
     }
 }
-public class _4_混合背包问题 {
+public class _04_混合背包问题 {
     /**
      有 N 种物品和一个容量是 V 的背包：
      物品一共有三类：
