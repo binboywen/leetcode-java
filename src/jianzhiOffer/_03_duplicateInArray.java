@@ -10,8 +10,6 @@ import java.util.Arrays;
  * Output: 2
  */
 
-
-
 public class _03_duplicateInArray {
     /**
      * 对于这种数组元素在 [0, n-1] 范围内的问题，可以将值为 i 的元素调整到第 i 个位置上进行求解。
