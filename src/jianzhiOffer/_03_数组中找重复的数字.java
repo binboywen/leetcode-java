@@ -80,7 +80,22 @@ public class _03_数组中找重复的数字 {
         }
         return count;
     }
-
+    //方法3：在对应位置上＋length
+    public boolean duplicate_3(int numbers[],int length,int [] duplication){
+        for(int i = 0; i < length; i++){
+            int index = numbers[i];
+            if(index >= length){
+                index -= length;
+            }
+            if(numbers[index] >= length){
+                duplication[0] = index;
+                return true;
+            }
+            numbers[index] += length;
+        }
+        return false;
+    }
+    //方法4 hashset if(!hashset.add(num[i])) return num[i]
     public static void main(String [] args){
         int [] arr = {0,1,2,0,4,5,6,7,8,9};
         int out = duplicate_2(arr,arr.length);

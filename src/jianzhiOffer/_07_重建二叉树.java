@@ -7,13 +7,9 @@ import java.util.Map;
  * 根据二叉树的前序遍历和中序遍历的结果，重建出该二叉树。
  * 假设输入的前序遍历和中序遍历的结果中都不含重复的数字。
  */
-public class _07_reConstructBinaryTree {
+public class _07_重建二叉树 {
     /**
      * 前序中序建立二叉树
-     *
-     * @param pre
-     * @param in
-     * @return
      */
     public static TreeNode reConstructBinaryTree(int[] pre, int[] in) {
         if (pre == null || in == null || pre.length != in.length || pre.length < 1) {
@@ -28,7 +24,7 @@ public class _07_reConstructBinaryTree {
         if (startPre > endPre || startIn > endIn) {
             return null;
         }
-//        根节点为前序数组的第一个元素
+        //根节点为前序数组的第一个元素
         TreeNode root = new TreeNode(pre[startPre]);
         for (int i = 0; i <= endIn; i++) {
             //根据前序遍历得到的根结点在中序遍历中查找根结点的下标i
@@ -65,10 +61,6 @@ public class _07_reConstructBinaryTree {
 
     /**
      * 中序后序重建二叉树
-     *
-     * @param post
-     * @param in
-     * @return
      */
     public static TreeNode reConstructBinaryTree1(int[] post, int[] in) {
         if (post == null || in == null || post.length != in.length || post.length < 1) {
@@ -105,20 +97,11 @@ public class _07_reConstructBinaryTree {
         posOrderRecur(head.right);
         System.out.print(head.val + " ");
     }
-    public static int f(int x){
-
-        System.out.println(1);
-        if(x <= 2)
-            return 1;
-        return f(x-2) + f(x-4) +1;
-    }
     public static void main(String[] args) {
         int[] preOrder = {1, 4, 3, 5, 6, 7, 8, 2};
         int[] inOrder = {3, 4, 6,5, 7, 8, 1, 2};
         TreeNode result = reConstructBinaryTree(preOrder, inOrder);
         posOrderRecur(result);
-        System.out.println("-------");
-        int a  = f(10);
     }
 
 }

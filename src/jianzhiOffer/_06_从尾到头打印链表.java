@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.Stack;
 
 /**
- * 从尾到头反过来打印出每个结点的值。
+ * 从尾到头反过来打印出每个结点的值。反转链表24
  */
-public class _06_反转链表从尾到头打印 {
+public class _06_从尾到头打印链表 {
     /**
      * 使用递归
      * 要逆序打印链表 1->2->3（3,2,1)，可以先逆序打印链表 2->3(3,2)，
@@ -14,13 +14,20 @@ public class _06_反转链表从尾到头打印 {
      * 要逆序打印该链表可以继续使用求解函数，
      * 也就是在求解函数中调用自己，这就是递归函数。
      */
+    static ArrayList<Integer> arrayList = new ArrayList<>();
     public static ArrayList<Integer> printListFromTailToHead(ListNode listNode){
-        ArrayList<Integer> ret = new ArrayList<>();
-        if (listNode != null){
-            ret.addAll(printListFromTailToHead(listNode.next));
-            ret.add(listNode.val);
-        }
-        return ret;
+
+        if(listNode == null)
+            return arrayList;
+        printListFromTailToHeadRecu(listNode);
+        return arrayList;
+
+    }
+    public static void printListFromTailToHeadRecu(ListNode root){
+        if(root == null)
+            return;
+        printListFromTailToHeadRecu(root.next);
+        arrayList.add(root.val);
     }
 
     /**
