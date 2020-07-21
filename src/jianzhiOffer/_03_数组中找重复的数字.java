@@ -10,19 +10,14 @@ import java.util.Arrays;
  * Output: 2
  */
 
-public class _03_duplicateInArray {
+public class _03_数组中找重复的数字 {
     /**
      * 对于这种数组元素在 [0, n-1] 范围内的问题，可以将值为 i 的元素调整到第 i 个位置上进行求解。
      * 以 (2, 3, 1, 0, 2, 5) 为例，遍历到位置 4 时，该位置上的数为 2，
      * 但是第 2 个位置上已经有一个 2 的值了，因此可以知道 2 重复
      * 可以改变数组结构的情况下才用交换的方式找到重复的数字
      * 每个数字最多只要交换两次就能找到属于它自己的位置
-     * 时间复杂度O(n)
-     * 空间复杂度O(1)
-     * @param nums
-     * @param length
-     * @param duplication
-     * @return
+     * 时间复杂度O(n) 空间复杂度O(1)
      */
     public static boolean duplicate(int [] nums,int length,int[] duplication){
         if (nums == null || length <=0 ){
