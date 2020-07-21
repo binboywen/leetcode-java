@@ -42,39 +42,39 @@ public class _03_数组中找重复的数字 {
 
     /**
      * 现要求不能改变原来的数组
-     * 则采用二分法进行查找，并统计在1~m中的数字的数目，和m+1~n中的数字的数目
+     * 则采用二分法进行查找，并统计在1~m中的数字的数目
      * 如果1`m的数字数目超过m那么这一半的区间里一定包含重复的数字，否则，另一半区间
      * 一定包含重复的数字
-     * 时间复杂度O(n log n)
-     * 空间O(1)
-     * @param nums
-     * @param length
-     * @return
+     * 时间复杂度O(n log n) 空间O(1) 超过时间限制
      */
     public static int duplicate_2(int [] nums,int length){
-        int start = 1;
+        int start = 0;
         int end = length - 1;
-        int ans = 0;
         while(end >= start){
             int middle = start + ((end - start) >> 1);
-            int count = countRange(nums,middle);
-
-            if(count > middle){
-                end = middle-1;
-                ans = middle;
+            int count = countRange(nums,start,middle);
+            if(end == start){
+                if(count > 1) return start;
+                else return -1;
             }
-            else{
+            if(count > (middle - start + 1)){
+                end = middle;
+            }else if(count == (middle - start + 1) && countRange(nums, middle + 1, end) == (end - middle)){
+                if(countRange(nums, end, end) > 1){
+                    return end;
+                }
+                else end = end - 1;
+            }else {
                 start = middle + 1;
             }
-
         }
-        return ans;
+        return -1;
     }
 
-    public static int countRange(int [] numbers,int middle){
+    public static int countRange(int [] numbers,int from, int to){
         int count = 0;
         for (int i = 0; i < numbers.length; i++){
-            if (numbers[i] <= middle){
+            if (numbers[i] <= to && numbers[i] >= from){
                 count++;
             }
         }
@@ -82,20 +82,8 @@ public class _03_数组中找重复的数字 {
     }
 
     public static void main(String [] args){
-        int [] arr = {2,3,1,0,2,5};
-        Arrays.sort(arr);
-        System.out.println("");
-        int [] res = new int[5];
+        int [] arr = {0,1,2,0,4,5,6,7,8,9};
         int out = duplicate_2(arr,arr.length);
         System.out.println(out);
-        System.out.println(res[0]);
-        Thread thread = new Thread(new MyThread());
-    }
-}
-class MyThread implements Runnable{
-
-    @Override
-    public void run() {
-        System.out.println("1");
     }
 }
