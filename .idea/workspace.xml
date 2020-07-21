@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="09605ec9-fcd9-4732-a990-596df1703113" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_03_数组中找重复的数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_03_数组中找重复的数字.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_06_反转链表从尾到头打印.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_06_从尾到头打印链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_07_reConstructBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_07_重建二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_07_重建二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_07_重建二叉树.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/../s2gciy/miaosha_1/target/" />
@@ -81,8 +79,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_07_重建二叉树.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+            <state relative-caret-position="225">
+              <caret line="94" column="9" lean-forward="true" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -473,11 +471,18 @@
       <option name="project" value="LOCAL" />
       <updated>1595323514490</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit &quot;modify files&quot;">
+      <created>1595324632703</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595324632703</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="648057000" />
+    <option name="totallyTimeSpent" value="648116000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -910,8 +915,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_07_重建二叉树.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        <state relative-caret-position="225">
+          <caret line="94" column="9" lean-forward="true" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
         </state>
       </provider>
     </entry>

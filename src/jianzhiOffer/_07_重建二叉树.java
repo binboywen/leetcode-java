@@ -52,7 +52,7 @@ public class _07_重建二叉树 {
                  * 即左子树结束下标为i-1，右子树起始下标为i+1，而右子树的结束下标也自然而然是endIn。
                  * */
                 root.right = reConstructBinaryTree(pre, startPre + i - startIn + 1, endPre, in, i + 1, endIn);
-//              在中序中找到根节点直接退出循环
+                //在中序中找到根节点直接退出循环
                 break;
             }
         }
@@ -75,7 +75,7 @@ public class _07_重建二叉树 {
         if (startPost > startPost || startIn > endIn) {
             return null;
         }
-//        根节点为前序数组的第一个元素
+        //根节点为前序数组的第一个元素
         TreeNode root = new TreeNode(post[endPost]);
         for (int i = endPost; i >= 0; i--) {
             //根据后序遍历得到的根结点在中序遍历中查找根结点的下标i
