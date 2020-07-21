@@ -13,7 +13,7 @@ package jianzhiOffer;
  * f(n) = 2 when n = 2
  * f(n) = f(n -1) + f(n - 2) when n > 2
  */
-public class _10_2_RectCover {
+public class _10_2_矩形覆盖 {
     public static int rectCover(int n ){
         if (n <= 2)
             return n;

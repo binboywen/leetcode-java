@@ -10,7 +10,7 @@ import java.util.Stack;
  * 因此出栈顺序就和最开始入栈顺序是相同的，先进入的元素先退出，
  * 这就是队列的顺序。
  */
-public class _09_twoStackForQueue {
+public class _09_两个栈实现队列 {
     Stack<Integer> in = new Stack<>();
     Stack<Integer> out = new Stack<>();
 

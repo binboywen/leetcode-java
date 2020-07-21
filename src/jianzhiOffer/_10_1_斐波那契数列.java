@@ -14,7 +14,7 @@ package jianzhiOffer;
  * 动态规划也是如此，但是动态规划会把子问题的解缓存起来，
  * 从而避免重复求解子问题。
  */
-public class _10_1_Fibonacci {
+public class _10_1_斐波那契数列 {
     /**
      * 递归是将一个问题划分成多个子问题求解，
      * 动态规划也是如此，但是动态规划会把子问题的解缓存起来，
@@ -59,7 +59,7 @@ public class _10_1_Fibonacci {
      * 之后就能以 O(1) 时间复杂度得到第 n 项的值。
      */
     private static int [] fib = new int[40];
-    _10_1_Fibonacci(){
+    _10_1_斐波那契数列(){
         fib[1] = 1;
         for(int i = 2; i < fib.length; i++){
             fib[i] = fib[i - 1] + fib[i - 2];

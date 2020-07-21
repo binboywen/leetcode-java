@@ -10,7 +10,7 @@ package jianzhiOffer;
  *     A:该节点为父节点的左子节点，则下一个节点为其父节点
  *     B:该节点为父节点的右子节点，则沿着父节点向上遍历，知道找到一个节点的父节点的左子节点为该节点，则该节点的父节点下一个节点
  */
-public class _08_nextNode {
+public class _08_中序遍历的下一个节点 {
     public TreeLinkNode GetNext(TreeLinkNode pNode) {
         if (pNode.right != null) {
             TreeLinkNode node = pNode.right;

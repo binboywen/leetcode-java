@@ -32,8 +32,6 @@ public class _11_minNumberInRotateArray {
      * 此时无法确定解在哪个区间，需要切换到顺序查找。
      * 例如对于数组 {1,1,1,0,1}，l、m 和 h 指向的数都为 1，
      * 此时无法知道最小数字 0 在哪个区间。
-      * @param nums
-     * @return
      */
     public static int minNumberInRotateArray_2(int [] nums){
         if(nums.length == 0)

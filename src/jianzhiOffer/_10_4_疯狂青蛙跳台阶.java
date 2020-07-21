@@ -28,8 +28,6 @@ public class _10_4_疯狂青蛙跳台阶 {
      * 即
      * f(n) = 2*f(n-1)
      * 所以 f(n) 是一个等比数列
-     * @param target
-     * @return
      */
     public int JumpFloorII_2(int target) {
         return (int) Math.pow(2, target - 1);
