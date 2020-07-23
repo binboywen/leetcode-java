@@ -11,7 +11,6 @@ public class _02_插入排序 {
                 swap(arr,j,j+1);
             }
         }
-
     }
     public static void swap(int [] arr, int i, int j){
         int tmp = arr[i];
