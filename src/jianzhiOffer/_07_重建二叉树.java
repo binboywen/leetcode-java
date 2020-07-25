@@ -108,9 +108,9 @@ public class _07_重建二叉树 {
     }
 
     public static void main(String[] args) {
-        int[] posOrder = {4,1,2,5,3};
-        int[] inOrder = {4,5,2,1,3};
-        TreeNode result = reConstructBinaryTree1(posOrder, inOrder);
+        int[] preOrder = {3,9,20,15,7};
+        int[] inOrder = {9,3,15,20,7};
+        TreeNode result = reConstructBinaryTree(preOrder, inOrder);
         preOrderRecur(result);
     }
 
