@@ -22,6 +22,13 @@ public class _10_1_斐波那契数列 {
      * @param n
      * @return
      */
+    public int Fibonacci(int n) {
+        if(n == 0)
+            return 0;
+        if(n == 1)
+            return 1;
+        return Fibonacci(n-1) + Fibonacci(n-2);
+    }
     public static int Fibonacci_dp(int n){
         if(n <=1 )
             return n;
