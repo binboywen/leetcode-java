@@ -109,7 +109,7 @@ class _12_hasPath_ {
 
 
 
-public class _12_hasPath{
+public class _12_矩阵中的路径{
     public static void main(String [] args){
         _12_hasPath_ aa = new _12_hasPath_();
         char [] matrix = {'a','b','c','e','s','f','c','s','a','d','e','e'};
