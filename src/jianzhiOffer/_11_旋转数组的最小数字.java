@@ -6,7 +6,7 @@ package jianzhiOffer;
  * 输出旋转数组的最小元素。
  * 1,2,3,4->2,3,4,1
  */
-public class _11_minNumberInRotateArray {
+public class _11_旋转数组的最小数字 {
     /**
      * 将旋转数组对半分可以得到一个包含最小元素的新旋转数组，
      * 以及一个非递减排序的数组。新的旋转数组的数组元素是原数组的一半，

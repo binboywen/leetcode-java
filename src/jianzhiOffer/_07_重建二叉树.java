@@ -97,11 +97,21 @@ public class _07_重建二叉树 {
         posOrderRecur(head.right);
         System.out.print(head.val + " ");
     }
+    public static void preOrderRecur(TreeNode head) {
+        if (head == null) {
+            return;
+        }
+        System.out.print(head.val + " ");
+        posOrderRecur(head.left);
+        posOrderRecur(head.right);
+
+    }
+
     public static void main(String[] args) {
-        int[] preOrder = {1, 4, 3, 5, 6, 7, 8, 2};
-        int[] inOrder = {3, 4, 6,5, 7, 8, 1, 2};
-        TreeNode result = reConstructBinaryTree(preOrder, inOrder);
-        posOrderRecur(result);
+        int[] posOrder = {4,1,2,5,3};
+        int[] inOrder = {4,5,2,1,3};
+        TreeNode result = reConstructBinaryTree1(posOrder, inOrder);
+        preOrderRecur(result);
     }
 
 }

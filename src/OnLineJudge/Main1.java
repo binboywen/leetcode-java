@@ -25,7 +25,6 @@ public class Main1 {
             for(int j = 0; j < length; j++){
                 S[j] -= S[minIndex];
             }
-
             length = minIndex;
         }
         System.out.println(result);
