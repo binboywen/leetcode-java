@@ -37,6 +37,17 @@ public class _05_替换字符串中的空格 {
         }
         return str.toString();
     }
+    public String replaceSpace(String s){
+        StringBuffer sb = new StringBuffer();
+        for(int i = 0; i < s.length(); i++){
+            if(s.charAt(i) == ' '){
+                sb.append("%20");
+            }else{
+                sb.append(s.charAt(i));
+            }
+        }
+        return sb.toString();
+    }
     public static void main(String [] args){
         StringBuffer str = new StringBuffer("A B");
         String aa = replaceSpace(str);

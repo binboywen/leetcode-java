@@ -54,16 +54,18 @@ public class _06_从尾到头打印链表 {
     /**
      * 使用栈
      */
-    public ArrayList<Integer> printListFromTailToHead_3(ListNode listNode){
+    public ArrayList<Integer> printListFromTailToHead_3(ListNode head){
         Stack<Integer> stack = new Stack<>();
-        while(listNode != null){
-            stack.add(listNode.val);
-            listNode = listNode.next;
+        while(head != null){
+            stack.add(head.val);
+            head = head.next;
         }
         ArrayList<Integer> ret = new ArrayList<>();
         while(!stack.isEmpty()){
             ret.add(stack.pop());
         }
+        int [] a = new int[ret.size()];
         return ret;
+
     }
 }
