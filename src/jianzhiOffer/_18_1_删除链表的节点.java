@@ -14,7 +14,7 @@ import java.util.List;
  * 以O(N)的时间复杂度操作节点的总次数，(2N-1)/N~2，因此该算法的平均时间复杂度
  * 为O(1)
  */
-public class _18_1_deleteListNode {
+public class _18_1_删除链表的节点 {
     public ListNode deleteNode(ListNode head, ListNode tobeDelete){
         if(head == null || tobeDelete == null)
             return null;

@@ -7,7 +7,7 @@ package jianzhiOffer;
  * n = 10
  * return 36 (10 = 3 + 3 + 4)
  */
-public class _14_cutRope {
+public class _14_剪绳子 {
     /**
      * 动态规划：首先定义函数f(n)为把长度为n的绳子剪成若干段
      * 后各段长度乘积的最大值。在剪第一刀时，有n-1种可能选择，
@@ -42,11 +42,9 @@ public class _14_cutRope {
                 int product = products[j] * products[i -j];
                 if (max < product)
                     max = product;
-
                 products[i] = max;
             }
         }
-
         max = products[n];
         return max;
     }

@@ -4,13 +4,13 @@ package jianzhiOffer;
 /**
  * 输入一个整数，输出该数二进制表示中 1 的个数。
  */
-public class _15_numberOf1InBinary {
+public class _15_二进制中1的个数 {
     /**
      * 常规解法:
      * 为了避免死循环,可以不右移输入的数字n,首先把n和1做与运算,
      * 判断n的最低位是不是1,接着把1左移一位得2,再和n做与运算,就能
      * 判断n的次低位是不是1,这样反复左移,每次都能判断n的其中一位
-     * 是不是1
+     * 是不是1,为负数的时候该方法算错
      */
     int NumberOf1(int n){
         int count = 0;

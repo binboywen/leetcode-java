@@ -5,7 +5,7 @@ package jianzhiOffer;
  * 比如输入 3，则打印出 1、2、3 一直到最大的 3 位数即 999。
  */
 
-public class _17_print1ToMaxOfNDigits {
+public class _17_打印从1到最大的N位数 {
     /**
      * 当输入一个大数时会产生溢出问题
      * @param n
@@ -13,7 +13,7 @@ public class _17_print1ToMaxOfNDigits {
     public void print1ToMaxOfNDigits(int n){
         int number = 1;
         int i = 1;
-        while(i++ < n){
+        while(i++ <= n){
             number *= 10;
         }
         for (i = 1; i < number; i++){
@@ -76,7 +76,11 @@ public class _17_print1ToMaxOfNDigits {
         }
 
     }
-
+    /**
+     * 可以考虑使用字符串求解，用char数组进行存储
+     * 1_一般解法
+     * 2_使用回溯法得到所有的数
+     */
     public void print1ToMaxOfNDigits_2(int n){
         if (n <= 0)
             return ;

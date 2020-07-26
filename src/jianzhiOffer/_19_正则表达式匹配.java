@@ -9,7 +9,7 @@ package jianzhiOffer;
  * 这两个的作用不同，不能把 '.' 的作用和 '*' 进行类比，
  * 从而把它当成重复前面字符一次。
  */
-public class _19_regularMatch {
+public class _19_正则表达式匹配 {
     /**
      * 解决思路：使用递归回溯
      * 声明一个匹配方法match(i,j),代表子字符串s的第i至末尾字符与p的j至末尾字符是否匹配。
@@ -42,7 +42,7 @@ public class _19_regularMatch {
     private boolean match(String s, String p, int i, int j) {
         if (j == lp) return i == ls;
         if (j < lp - 1 && p.charAt(j + 1) == '*') {
-            if (i < ls - 1 && (p.charAt(j) == '.' || s.charAt(i) == p.charAt(j))) {
+            if (i < ls && (p.charAt(j) == '.' || s.charAt(i) == p.charAt(j))) {
                 // 可以包含多次，那么每匹配一次s往后移动一次，而p不用移动
                 // j+2表示匹配零次，则p直接往后移动2
                 return match(s, p, i + 1, j) || match(s, p, i, j + 2);

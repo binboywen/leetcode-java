@@ -4,7 +4,7 @@ package jianzhiOffer;
  * 给定一个double类型的浮点数base和int类型的整数exponent，
  * 求base的exponent次方
  */
-public class _16_intPowerOfNumber {
+public class _16_数值的整数次方 {
     /**
      * 解决方法：
      * x^n = (x * x) ^ (n/2) when n%2=0
