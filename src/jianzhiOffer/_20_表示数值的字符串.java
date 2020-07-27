@@ -12,7 +12,7 @@ package jianzhiOffer;
  * 上述A和C都是可能以'+'或'-'开头的0~9数位串；B也是0~9的数位串，
  * 但是前面不能有正负号
  */
-public class _20_numericByString {
+public class _20_表示数值的字符串 {
     public static void main(String [] args){
         String test = "12e";
         Solution ss = new Solution();
@@ -70,6 +70,7 @@ class Solution {
         boolean temp = scanUnsignedInteger();
         return temp;
     }
+    //这个正则表达式匹配，在leetcode上过不了
     public boolean isNumeric2(char[] str){
         /**
          * 使用正则表达式进行匹配

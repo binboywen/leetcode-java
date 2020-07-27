@@ -4,7 +4,7 @@ package jianzhiOffer;
  * 输入一个链表，输出该链表中倒数第k个节点。
  * 从1开始计数，即链表的尾节点是倒数第一个节点。
  */
-public class _22_findKthToTail {
+public class _22_链表的倒数第K个节点 {
     /**
      * 通常的想法是先走到链表的尾端，再从尾端回溯k步。
      * 但是单链表没有存储父指针。

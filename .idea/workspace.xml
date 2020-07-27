@@ -5,15 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09605ec9-fcd9-4732-a990-596df1703113" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/OnLineJudge/Try_catch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_13_robotMovingCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_13_机器人的运动范围.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_14_cutRope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_14_剪绳子.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_15_numberOf1InBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_15_二进制中1的个数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_16_intPowerOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_16_数值的整数次方.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_17_print1ToMaxOfNDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_17_打印从1到最大的N位数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_18_1_deleteListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_18_1_删除链表的节点.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_18_2_deleteDuplicateListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_18_2_删除链表中重复的节点.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_19_regularMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_19_正则表达式匹配.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_12_hasPath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_12_hasPath_.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_12_hasPath_.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_12_hasPath_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_12_hasPath_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_13_robotMovingCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_14_cutRope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_15_numberOf1InBinary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_16_intPowerOfNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_17_print1ToMaxOfNDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_18_1_deleteListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_18_2_deleteDuplicateListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_19_regularMatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_20_numericByString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_20_numericByString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_20_表示数值的字符串.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_21_reorderOddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_21_调整顺序使奇数位于偶数之前.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_22_findKthToTail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_22_链表的倒数第K个节点.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_23_EntryNodeOfLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_23_链表中环的入口节点.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/../s2gciy/miaosha_1/target/" />
@@ -33,82 +43,41 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_17_打印从1到最大的N位数.java">
+        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_21_调整顺序使奇数位于偶数之前.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="98" column="9" lean-forward="true" selection-start-line="98" selection-start-column="9" selection-end-line="98" selection-end-column="9" />
+            <state relative-caret-position="-118">
+              <caret line="81" column="17" lean-forward="true" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_18_1_删除链表的节点.java">
+        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_22_链表的倒数第K个节点.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="27" column="28" selection-start-line="18" selection-start-column="8" selection-end-line="36" selection-end-column="20" />
+            <state relative-caret-position="510">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_18_2_删除链表中重复的节点.java">
+        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_23_链表中环的入口节点.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_24_反转链表.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+            <state relative-caret-position="90">
+              <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#614#624#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_19_正则表达式匹配.java">
+        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_24_反转链表.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-750">
-              <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_20_numericByString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-630">
-              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_21_reorderOddEven.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1168">
-              <caret line="50" column="38" lean-forward="true" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_22_findKthToTail.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_23_EntryNodeOfLoop.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-88">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="450">
+              <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -133,11 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/pack_problem/EggDrop.java" />
-        <option value="$PROJECT_DIR$/src/pack_problem/多重背包.java" />
-        <option value="$PROJECT_DIR$/src/pack_problem/_03_多重背包.java" />
-        <option value="$PROJECT_DIR$/src/pack_problem/_3_多重背包.java" />
-        <option value="$PROJECT_DIR$/src/pack_problem/_3_多重背包二进制优化.java" />
         <option value="$PROJECT_DIR$/src/pack_problem/_4_混合背包问题.java" />
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_29_PrintMatrixSpiralOrder.java" />
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_63_maxProfit.java" />
@@ -184,6 +148,11 @@
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_17_打印从1到最大的N位数.java" />
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_18_2_删除链表中重复的节点.java" />
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_19_正则表达式匹配.java" />
+        <option value="$PROJECT_DIR$/src/OnLineJudge/Try_catch.java" />
+        <option value="$PROJECT_DIR$/src/jianzhiOffer/_20_表示数值的字符串.java" />
+        <option value="$PROJECT_DIR$/src/jianzhiOffer/_21_调整顺序使奇数位于偶数之前.java" />
+        <option value="$PROJECT_DIR$/src/jianzhiOffer/_22_链表的倒数第K个节点.java" />
+        <option value="$PROJECT_DIR$/src/jianzhiOffer/_23_链表中环的入口节点.java" />
       </list>
     </option>
   </component>
@@ -257,9 +226,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._07_重建二叉树">
-    <configuration name="_01_冒泡" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OnLineJudge._01_冒泡" />
+  <component name="RunManager" selected="Application.Try_catch">
+    <configuration name="Try_catch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OnLineJudge.Try_catch" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -325,11 +294,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Try_catch" />
         <item itemvalue="Application._07_重建二叉树" />
         <item itemvalue="Application._04_快排" />
         <item itemvalue="Application._03_选择排序" />
         <item itemvalue="Application._02_插入排序" />
-        <item itemvalue="Application._01_冒泡" />
       </list>
     </recent_temporary>
   </component>
@@ -435,7 +404,7 @@
       <workItem from="1594728381636" duration="6067000" />
       <workItem from="1594899561589" duration="30452000" />
       <workItem from="1595560059622" duration="2612000" />
-      <workItem from="1595638182588" duration="20131000" />
+      <workItem from="1595638182588" duration="32516000" />
     </task>
     <task id="LOCAL-00001" summary="commit &quot;modify files&quot;">
       <created>1595254282864</created>
@@ -514,11 +483,25 @@
       <option name="project" value="LOCAL" />
       <updated>1595681713209</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="commit &quot;modify files&quot;">
+      <created>1595755850458</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1595755850458</updated>
+    </task>
+    <task id="LOCAL-00013" summary="commit &quot;modify files&quot;">
+      <created>1595756759472</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1595756759472</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="676338000" />
+    <option name="totallyTimeSpent" value="688723000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -534,7 +517,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49839056" weight="0.13" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49839056" weight="0.30222222" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49839056" weight="0.36" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="5" />
@@ -618,13 +601,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_53_2_getMissingNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ThreadPool/MyThreadPool.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -879,13 +855,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_14_剪绳子.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="83" column="76" lean-forward="true" selection-start-line="83" selection-start-column="76" selection-end-line="83" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_15_二进制中1的个数.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-210">
@@ -907,34 +876,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_20_numericByString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-630">
-          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_21_reorderOddEven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1168">
-          <caret line="50" column="38" lean-forward="true" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_22_findKthToTail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_23_EntryNodeOfLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-88">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_17_打印从1到最大的N位数.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="452">
@@ -949,24 +890,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_24_反转链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_18_2_删除链表中重复的节点.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="870">
-          <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_14_剪绳子.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2310">
+          <caret line="83" column="76" selection-start-line="83" selection-start-column="76" selection-end-line="83" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OnLineJudge/Try_catch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_19_正则表达式匹配.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-750">
-          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+        <state relative-caret-position="2042">
+          <caret line="97" column="20" selection-start-line="97" selection-start-column="20" selection-end-line="98" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_20_表示数值的字符串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="61" column="5" lean-forward="true" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_21_调整顺序使奇数位于偶数之前.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-118">
+          <caret line="81" column="17" lean-forward="true" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_22_链表的倒数第K个节点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_23_链表中环的入口节点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#614#624#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_24_反转链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
         </state>
       </provider>
     </entry>

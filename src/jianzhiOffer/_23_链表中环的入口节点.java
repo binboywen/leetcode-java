@@ -1,12 +1,14 @@
 package jianzhiOffer;
 
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 /**
  * 一个链表中包含环，请找出该链表的环的入口节点
  * 要求不能使用额外的空间
  */
-public class _23_EntryNodeOfLoop {
+public class _23_链表中环的入口节点 {
     /**
      * 1.如何确定链表中包含环：使用双指针，一个指针fast每次移动两个节点，一个指针
      * slow每次移动一个节点。因为存在环，所以两个指针必定相遇再
@@ -17,6 +19,43 @@ public class _23_EntryNodeOfLoop {
      * 指针相遇一定是在环中，可以从这个节点出发，一边继续向前移动一边计数，当
      * 再次回到这个节点时，就可以得到环中节点数了。
      */
+    ListNode EntryNodeOfLoop0(ListNode head){
+        Set<ListNode> visited = new HashSet<ListNode>();
+
+        ListNode node = head;
+        while (node != null) {
+            if (visited.contains(node)) {
+                return node;
+            }
+            visited.add(node);
+            node = node.next;
+        }
+
+        return null;
+    }
+    ListNode EntryNodeOfLoop1(ListNode head){
+        if(head == null || head.next == null)
+            return null;
+        ListNode slow = head;
+        ListNode fast = head;
+        while(fast != null && fast.next != null){
+
+            slow = slow.next;
+            fast = fast.next.next;
+            if(slow == fast)
+                break;
+        }
+        if(slow == null || fast == null)
+            return null;
+        fast = head;
+        while(slow !=null && fast != null){
+            if(slow == fast)
+                break;
+            slow = slow.next;
+            fast = fast.next;
+        }
+        return slow;
+    }
     //如下代码在链表中存在环的前提下找到一快一慢两个指针的相遇的节点
     ListNode MeetingNode(ListNode pHead){
         if(pHead == null){
