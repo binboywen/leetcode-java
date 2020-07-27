@@ -7,7 +7,7 @@ import java.util.Stack;
 /**
  * 转圈打印数组，顺时针打印数组
  */
-public class _29_PrintMatrixSpiralOrder {
+public class _29_顺时针打印矩阵 {
     public static void spiralOrderPring(int [][] matrix){
         int tR = 0;
         int tC = 0;

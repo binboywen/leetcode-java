@@ -7,7 +7,7 @@ import sun.reflect.generics.tree.Tree;
  * 第一步，在数树A中找到和树B的根节点的值一样的节点R
  * 第二步，判断树A中以R为根节点的子树是不是包含和树B一样的结构
  */
-public class _26_hasSubTree {
+public class _26_树的子结构 {
     public boolean HasSubTree(TreeNode root1, TreeNode root2){
         if(root1 == null || root2 == null)
             return false;

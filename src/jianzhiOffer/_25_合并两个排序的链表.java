@@ -3,7 +3,7 @@ package jianzhiOffer;
 /**
  * 合并两个有序链表
  */
-public class _25_mergeTwoSortedList {
+public class _25_合并两个排序的链表 {
     //递归
     public ListNode Merge_1(ListNode list1, ListNode list2){
         if(list1 == null)
@@ -25,14 +25,13 @@ public class _25_mergeTwoSortedList {
         ListNode cur = head;
         while(list1 != null && list2 != null){
             if (list1.val <= list2.val){
-                cur.next = list1.next;
+                cur.next = list1;
                 list1 = list1.next;
             }else{
-                cur.next = list2.next;
+                cur.next = list2;
                 list2 = list2.next;
             }
             cur = cur.next;
-
         }
         if(list1 != null)
             cur.next = list1;

@@ -7,8 +7,9 @@ package jianzhiOffer;
  * 来判断二叉树是不是对称的。
  * 如果两个序列是一样的，那么二叉树就是对称的。
  */
-public class _28_isSymmetricTree {
+public class _28_对称的二叉树 {
     public boolean isSymmetric(TreeNode root){
+        if(root == null) return true;
         return isSymmetric(root.left,root.right);
     }
     private boolean isSymmetric(TreeNode left, TreeNode right){

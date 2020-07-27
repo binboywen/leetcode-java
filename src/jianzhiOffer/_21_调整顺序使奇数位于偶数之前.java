@@ -28,7 +28,7 @@ public class _21_调整顺序使奇数位于偶数之前 {
             }
         }
     }
-
+    //不能保证原序
     public static void ReorderOddEven(int [] array) {
         int length = array.length;
         if (array == null || length == 0)

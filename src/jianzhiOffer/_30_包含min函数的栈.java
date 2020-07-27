@@ -8,7 +8,7 @@ import java.util.Stack;
  * 的min函数。时间复杂度都是O(1)
  * 利用辅助栈来保存每个元素对应的最小值
  */
-public class _30_stackWithMin {
+public class _30_包含min函数的栈 {
     public static class MyStack1{
         private Stack<Integer> stackData;
         private Stack<Integer> stackMin;
