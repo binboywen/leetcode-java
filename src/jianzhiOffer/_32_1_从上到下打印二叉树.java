@@ -13,7 +13,7 @@ import java.util.concurrent.LinkedBlockingDeque;
  * 把要打印的节点放入队列中，
  * 弹出一个节点时打印并且同时压入该节点的左右孩子（如果其孩子不为空的话）
  */
-public class _32_1_printTreeFromTopToBottom {
+public class _32_1_从上到下打印二叉树 {
     public ArrayList<Integer> PrintTreeFromTopToBottom(TreeNode root){
         Queue<TreeNode> queue = new LinkedList<>();
         ArrayList<Integer> ret = new ArrayList<>();

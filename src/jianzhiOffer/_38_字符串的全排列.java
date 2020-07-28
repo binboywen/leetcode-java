@@ -14,7 +14,7 @@ import java.util.HashSet;
  * 的所有字符。然后把第一个字符逐一和它后面的字符进行交换
  *
  */
-public class _38_printAllPermutations {
+public class _38_字符串的全排列 {
     public static void printAllPermutations1(String str) {
         ArrayList<String> arrayString = new ArrayList<>();
         char[] chs = str.toCharArray();

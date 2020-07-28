@@ -1,6 +1,6 @@
 package jianzhiOffer;
 import java.util.*;
-public class _38_printAllPermutations_1 {
+public class _38_字符串的全排列_1 {
     //字典序方法
     public ArrayList<String> Permutation(String str) {
         ArrayList<String> res = new ArrayList<String>();

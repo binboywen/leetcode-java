@@ -11,7 +11,7 @@ import java.util.Queue;
  * 在反序列化时，先获取根节点，再获取左孩子，左孩子的左孩子，直到为空时，
  * 返回上一层构建其右孩子
  */
-public class _37_SerializeAndReconstructTree {
+public class _37_序列化二叉树 {
     public static class Node {
         public int value;
         public Node left;

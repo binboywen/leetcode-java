@@ -11,7 +11,7 @@ import java.util.Queue;
  * 我们需要两个变量，一个变量表示在当前层中还没有打印的节点数
  * 另一个表示下一层的节点数
  */
-public class _32_2_printTreeFromTopToBottomWithEnter {
+public class _32_2_从上到下换行打印二叉树 {
     public void PrintTree(TreeNode root){
         if(root == null)
             return;
