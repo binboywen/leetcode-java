@@ -29,7 +29,6 @@ public class _31_栈的压入弹出序列 {
                     && stack.peek() == popSequence[popIndex]) {
                 stack.pop();
                 popIndex++;
-
             }
         }
         return stack.isEmpty();
