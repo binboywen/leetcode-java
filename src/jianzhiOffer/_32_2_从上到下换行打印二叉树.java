@@ -2,6 +2,7 @@ package jianzhiOffer;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
+import java.util.List;
 import java.util.Queue;
 
 /**
@@ -12,6 +13,33 @@ import java.util.Queue;
  * 另一个表示下一层的节点数
  */
 public class _32_2_从上到下换行打印二叉树 {
+    public List<List<Integer>> levelOrder(TreeNode root) {
+
+        Queue<TreeNode> queue = new LinkedList<>();
+        List<List<Integer>> ret = new ArrayList<>();
+        if(root == null){
+            return ret;
+        }
+        queue.add(root);
+        while(!queue.isEmpty()){
+            List<Integer> list = new ArrayList<>();
+            int size = queue.size();
+            for(int i = 0; i < size; i++){
+                TreeNode node = queue.poll();
+                if(node == null){
+                    continue;
+                }
+                list.add(node.val);
+                queue.add(node.left);
+                queue.add(node.right);
+            }
+            if(list.size() != 0){
+                ret.add(list);
+            }
+
+        }
+        return ret;
+    }
     public void PrintTree(TreeNode root){
         if(root == null)
             return;
