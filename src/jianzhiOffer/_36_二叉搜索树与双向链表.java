@@ -10,7 +10,11 @@ public class _36_二叉搜索树与双向链表 {
     private TreeNode head = null;
 
     public TreeNode Convert(TreeNode root){
+        if(root == null)
+            return null;
         inOrder(root);
+        head.left = pre;
+        pre.right = head;
         return head;
     }
     //中序遍历就是从小到到大的顺序
