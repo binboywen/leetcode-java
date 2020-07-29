@@ -15,45 +15,30 @@ import java.util.HashSet;
  *
  */
 public class _38_字符串的全排列 {
-    public static void printAllPermutations1(String str) {
-        ArrayList<String> arrayString = new ArrayList<>();
-        char[] chs = str.toCharArray();
-        process1(chs, 0);
+    static ArrayList<String> arrayString = new ArrayList<>();
+    public static String[] permutation(String s) {
+        char [] chs = s.toCharArray();
+        process(chs,0);
         Collections.sort(arrayString);
+        String [] res = new String[arrayString.size()];
+        arrayString.toArray(res);
+        return res;
     }
-
-    public static void process1(char[] chs, int i) {
-        if (i == chs.length) {
-            System.out.println(String.valueOf(chs));
-        }
-        for (int j = i; j < chs.length; j++) {
-            swap(chs, i, j);
-            process1(chs, i + 1);
-            //交换回来，恢复上一次的状态，回溯的关键
-            swap(chs, i, j);
-        }
-    }
-
-    public static void printAllPermutations2(String str) {
-        char[] chs = str.toCharArray();
-        process2(chs, 0);
-    }
-
-    public static void process2(char[] chs, int i) {
-        if (i == chs.length) {
-            System.out.println(String.valueOf(chs));
+    public static void process(char [] chs, int i ){
+        if(i == chs.length){
+            arrayString.add(String.valueOf(chs));
         }
         HashSet<Character> set = new HashSet<>();
-        for (int j = i; j < chs.length; j++) {
-            if (!set.contains(chs[j])) {
+        for(int j = i; j < chs.length; j++){
+            if (!set.contains(chs[j])){
                 set.add(chs[j]);
-                swap(chs, i, j);
-                process2(chs, i + 1);
-                swap(chs, i, j);
+                swap(chs,i,j);
+                process(chs,i+1);
+                swap(chs,i,j);
             }
+
         }
     }
-
     public static void swap(char[] chs, int i, int j) {
         char tmp = chs[i];
         chs[i] = chs[j];
@@ -62,15 +47,13 @@ public class _38_字符串的全排列 {
 
     public static void main(String[] args) {
         String test1 = "aa";
-        printAllPermutations1(test1);
-        System.out.println("======");
-        printAllPermutations2(test1);
+        permutation(test1);
         System.out.println("======");
 
+
         String test2 = "aa";
-        printAllPermutations1(test2);
+        permutation(test2);
         System.out.println("======");
-        printAllPermutations2(test2);
-        System.out.println("======");
+
     }
 }
