@@ -36,7 +36,6 @@ public class _38_字符串的全排列 {
                 process(chs,i+1);
                 swap(chs,i,j);
             }
-
         }
     }
     public static void swap(char[] chs, int i, int j) {
@@ -46,7 +45,7 @@ public class _38_字符串的全排列 {
     }
 
     public static void main(String[] args) {
-        String test1 = "aa";
+        String test1 = "abcd";
         permutation(test1);
         System.out.println("======");
 
