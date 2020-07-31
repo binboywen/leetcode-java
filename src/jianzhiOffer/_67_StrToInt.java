@@ -24,7 +24,7 @@ public class _67_StrToInt {
         return isNegative ? -ret : ret;
     }
     public static void main(String [] args){
-        String aa = "-2147483649";
+        String aa = "2147483649";
         System.out.println(StrToInt(aa));
     }
 }

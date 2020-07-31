@@ -76,8 +76,13 @@ public class _03_选择排序 {
         System.out.println();
     }
 
+    public static void main(String [] args){
+        int [] array = {25,84,21,47,15,27,68,35,20};
+        selectionSort(array);
+        System.out.println("aa");
+    }
     // for test
-    public static void main(String[] args) {
+    public static void main1(String[] args) {
         int testTime = 500000;
         int maxSize = 100;
         int maxValue = 100;

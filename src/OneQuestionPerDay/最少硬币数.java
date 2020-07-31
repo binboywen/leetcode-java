@@ -9,15 +9,11 @@ import java.util.Arrays;
 public class 最少硬币数 {
     //测试用例
     public static void main(String[] args) {
-        int m = 112;
-        int[] temp = coinCoin(m);
-        for(int i = 0; i <= m; i++) {
-            System.out.println(i + "元最少需要" + temp[i] + "个硬币！");
-        }
+
     }
     //找出最少的钱的数目
     private static int[] coinCoin(int m) {
-        int[] a = {1, 3, 5};  //硬币面值
+        int[] a = {1, 5,10,50,100};  //硬币面值
         int[] temp = new int[m + 1];  //存储所需硬币的数目
         for(int i = 0; i <= m; i++) {
             temp[i] = i;    //默认全部使用1元，则i元最多需要使用i个银币。

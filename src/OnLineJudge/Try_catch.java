@@ -2,13 +2,12 @@ package OnLineJudge;
 
 public class Try_catch {
     public static void main(String [] args){
-        try{
-            System.out.println(0);
-            return;
-        }catch(Exception s){}
-        finally{
-            System.out.println(1);
-            return;
-        }
+        StringBuffer a = new StringBuffer("A");
+        StringBuffer b = new StringBuffer("B");
+        operator(a, b);
+        System.out.println(a + "," + b);
+    }
+    public static void operator(StringBuffer x, StringBuffer y) {
+        x.append(y); y = x;
     }
 }
