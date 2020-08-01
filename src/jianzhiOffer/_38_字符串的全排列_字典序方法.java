@@ -2,7 +2,7 @@ package jianzhiOffer;
 import java.util.*;
 public class _38_字符串的全排列_字典序方法 {
     //字典序方法
-    public ArrayList<String> Permutation(String str) {
+    public static  ArrayList<String> Permutation(String str) {
         ArrayList<String> res = new ArrayList<String>();
         if (str.length() == 0) return res;
         char[] array = str.toCharArray();
@@ -20,7 +20,7 @@ public class _38_字符串的全排列_字典序方法 {
         return res;
     }
 
-    public String nextString(String str) {
+    public static String nextString(String str) {
         char[] array = str.toCharArray();
         int length = str.length();
         int i = length - 2;
