@@ -37,7 +37,6 @@ public class _32_3_Z字形打印二叉树 {
                 list.add(node.val);
                 queue.add(node.left);
                 queue.add(node.right);
-
             }
             if(reverse){
                 Collections.reverse(list);
