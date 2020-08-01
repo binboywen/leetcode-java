@@ -1,4 +1,4 @@
-package Kedaxunfei;
+package written_examination.iflytek;
 
 import java.util.Scanner;
 public class Main2{

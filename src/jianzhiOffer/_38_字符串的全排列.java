@@ -45,7 +45,7 @@ public class _38_字符串的全排列 {
     }
 
     public static void main(String[] args) {
-        String test1 = "abcd";
+        String test1 = "abc";
         permutation(test1);
         System.out.println("======");
 
