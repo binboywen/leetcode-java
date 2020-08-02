@@ -1,6 +1,7 @@
 package jianzhiOffer;
 
 import java.util.ArrayList;
+import java.util.List;
 
 /**
  * 和为s的连续正数序列
@@ -16,19 +17,19 @@ public class _57_2_和为S的连续正数序列 {
      * 让这个序列包含更多的数字。因为这个序列至少要有两个数字，我们一直增加small到
      * (1+s)/2为止。
      */
-    public static ArrayList<ArrayList<Integer>> FindContinuousSequence(int sum){
+    public static ArrayList<ArrayList<Integer>> FindContinuousSequence(int target){
         ArrayList<ArrayList<Integer>> ret = new ArrayList<>();
-        if(sum < 3){
+        if(target < 3){
             return ret;
         }
         int start = 1;
         int end = 2;
         int curSum = 3;
-        while(end < sum){
-            if(curSum > sum){
+        while(end < target){
+            if(curSum > target){
                 curSum-=start;
                 start++;
-            }else if(curSum < sum){
+            }else if(curSum < target){
                 end++;
                 curSum+=end;
             }else{
@@ -44,5 +45,30 @@ public class _57_2_和为S的连续正数序列 {
             }
         }
         return ret;
+    }
+    public int[][] findContinuousSequence(int target) {
+        List<int []> ret = new ArrayList<>();
+
+        int start = 1;
+        int end = 2;
+        int curSum = 3;
+        while(end < target){
+            if(curSum > target){
+                curSum-=start;
+                start++;
+            }else if(curSum < target){
+                end++;
+                curSum+=end;
+            }else{
+                int [] arr = new int[end - start + 1];
+                for(int i = start;i <= end; i++){
+                    arr[i - start] = i;
+                }
+                ret.add(arr);
+                curSum -= start;
+                start++;
+            }
+        }
+        return ret.toArray(new int[ret.size()][]);
     }
 }

@@ -13,7 +13,7 @@ package jianzhiOffer;
  * 递归的主体部分为 sum += Sum_Solution(n - 1)，
  * 转换为条件语句后就是 (sum += Sum_Solution(n - 1)) > 0。
  */
-public class _64_sumOfOneToN {
+public class _64_不使用乘除法求1到N的和 {
     public int Sum_Solution(int n) {
         int sum = n;
         boolean b = (n > 0) && ((sum += Sum_Solution(n - 1)) > 0);

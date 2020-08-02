@@ -6,11 +6,11 @@ package jianzhiOffer;
  * 例如输入abcdefg和2，输出cdefgab
  * 先分别翻转两个部分bagfedc，再整个翻转得到cdefgab
  */
-public class _58_2_LeftRotateString {
-    public String LeftRotateString(String str, int n) {
-        if (n >= str.length())
-            return str;
-        char[] chars = str.toCharArray();
+public class _58_2_左旋字符串 {
+    public String LeftRotateString(String s, int n) {
+        if (n >= s.length())
+            return s;
+        char[] chars = s.toCharArray();
         reverse(chars, 0, n - 1);
         reverse(chars, n, chars.length - 1);
         reverse(chars, 0, chars.length - 1);

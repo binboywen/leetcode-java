@@ -9,7 +9,7 @@ package jianzhiOffer;
  * 扫描第i个数时，记录前面的i-1个数中的最小值，就能算得在当前价位卖
  * 出时可能得到的最大利润。
  */
-public class _63_maxProfit {
+public class _63_股票的最大利润 {
     public static int maxProfit(int [] prices){
         if(prices == null || prices.length == 0)
             return 0;

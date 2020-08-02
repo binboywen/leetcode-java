@@ -7,7 +7,7 @@ import java.util.Arrays;
  * 从扑克牌中随机抽取5张牌，判断是不是一个顺子，即这5张牌是不是连续的
  * 大小王是癞子，可以代替任何数字，A为1，J为11，Q为12，K为13
  */
-public class _61_isContinuous {
+public class _61_扑克牌中的顺子 {
     public boolean isContinuous(int [] nums){
         if(nums.length < 5)
             return false;
