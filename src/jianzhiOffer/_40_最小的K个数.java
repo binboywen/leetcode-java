@@ -7,7 +7,7 @@ import java.util.PriorityQueue;
  * 输入n个整数，找出其中最小的k个数。例如，输入4、5、1、6、2、7、3、8
  * 则最小的4个数字是1、2、3、4
  */
-public class _40_getLeastNumbers {
+public class _40_最小的K个数 {
     /**
      * 快速选择，只有允许修改数组元素时才可以使用
      * 复杂度：O(N) + O(1)
