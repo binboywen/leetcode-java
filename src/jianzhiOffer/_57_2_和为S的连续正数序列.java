@@ -7,7 +7,7 @@ import java.util.ArrayList;
  * 输入一个正数s，打印出所有和为s的连续正数序列(至少含有两个数)
  * 例如输入15，由于1+2+3+4+5 = 4+5+6 = 7+8 = 15
  */
-public class _57_2_FindNumbersWithSum {
+public class _57_2_和为S的连续正数序列 {
     /**
      * 依据上题的解法
      * 用两个数small和big分别表示序列的最小值和最大值，首先把small

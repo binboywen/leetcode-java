@@ -9,7 +9,7 @@ import java.util.ArrayList;
  * 如果是无序数组，则可以了利用hash表来求解
  * 但是是有序数组，则可以利用类似外排的形式，利用双指针求解
  */
-public class _57_1_FindNumbersWithSum {
+public class _57_1_和为S的两个数字 {
     /**
      * 使用双指针，一个指针指向元素较小的值，
      * 一个指针指向元素较大的值。
@@ -27,8 +27,11 @@ public class _57_1_FindNumbersWithSum {
                 i++;
             else if(cur > sum)
                 j--;
-            else
+            else{
                 System.out.println(String.format("%d,%d,%d,%d", i , j, array[i],array[j]));
+                break;
+            }
+
         }
         return new ArrayList<>();
     }
