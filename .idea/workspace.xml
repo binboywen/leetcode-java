@@ -4,47 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/leetcode/problem10_isMatchRegularExpression.java" line="98" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09605ec9-fcd9-4732-a990-596df1703113" name="Default Changelist" comment="commit &quot;modify files&quot;">
+    <list default="true" id="09605ec9-fcd9-4732-a990-596df1703113" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_39_theNumOverHalfLengthOfArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_40_getLeastNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_41_1_getMiddleNumberOfDataStream$MaxHeapComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_41_1_getMiddleNumberOfDataStream$MedianHolder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_41_1_getMiddleNumberOfDataStream$MinHeapComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_41_1_getMiddleNumberOfDataStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_41_2_FirstAppearingOnce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_42_FindGreatestSumOfSubArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_43_NumberOf1Between1AndN.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_45_PrintMinNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_48_longestSubStringWithoutDuplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_49_GetUglyNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_50_FirstNotRepeatingChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_51_InversePairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_51_InversePairs_.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_52_FindFirstCommonNode$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_52_FindFirstCommonNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_53_1_getTimesOfNumberInSortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_53_2_getMissingNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_53_3_GetNumberSameAsIndex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_54_KthNodeOfBinarySerachTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_55_1_TreeDepth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_55_2_IsBalancedTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_56_1_FindNumsAppearOnce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_56_2_FindNumsAppearOnce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_57_1_FindNumbersWithSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_57_2_FindNumbersWithSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_58_1_ReverseSentence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_57_2_和为S的连续正数序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_57_2_和为S的连续正数序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_58_1_ReverseSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_58_1_反转单词顺序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_58_2_LeftRotateString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_58_2_左旋字符串.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_59_1_maxInWindows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_59_1_滑动窗口的最大值.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_59_2_maxValueOfQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_59_2_队列的最大值.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_61_isContinuous.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_61_扑克牌中的顺子.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_63_maxProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_63_股票的最大利润.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_64_sumOfOneToN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_64_不使用乘除法求1到N的和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_65_addWithOutAddSubMultiDiv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_65_不用加减乘除做加法.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_66_multiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_66_构建乘积数组.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_67_StrToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_67_字符串转换成整数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/written_examination/PDD/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/written_examination/PDD/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/../s2gciy/miaosha_1/target/" />
@@ -99,11 +61,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_67_字符串转换成整数.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="-360">
               <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/written_examination/PDD/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -128,7 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/jianzhiOffer/_38_字符串的全排列.java" />
         <option value="$PROJECT_DIR$/src/Kedaxunfei/Main1.java" />
         <option value="$PROJECT_DIR$/src/笔试/Kedaxunfei/Main1.java" />
         <option value="$PROJECT_DIR$/src/笔试/Kedaxunfei/科大讯飞/Main1.java" />
@@ -179,6 +149,7 @@
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_66_构建乘积数组.java" />
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_67_字符串转数组.java" />
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_67_字符串转换成整数.java" />
+        <option value="$PROJECT_DIR$/src/written_examination/PDD/Main.java" />
       </list>
     </option>
   </component>
@@ -209,18 +180,13 @@
             <path>
               <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
               <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
-              <item name="jianzhiOffer" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
               <item name="written_examination" type="1f31426a:PackageElementNode" />
             </path>
             <path>
               <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
               <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
               <item name="written_examination" type="1f31426a:PackageElementNode" />
-              <item name="yuanFuDao" type="1f31426a:PackageElementNode" />
+              <item name="PDD" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -450,7 +416,7 @@
       <workItem from="1595989099976" duration="6773000" />
       <workItem from="1596114871368" duration="23767000" />
       <workItem from="1596256948809" duration="12364000" />
-      <workItem from="1596332987142" duration="19013000" />
+      <workItem from="1596332987142" duration="19233000" />
     </task>
     <task id="LOCAL-00001" summary="commit &quot;modify files&quot;">
       <created>1595254282864</created>
@@ -669,11 +635,18 @@
       <option name="project" value="LOCAL" />
       <updated>1596355224613</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="commit &quot;modify files&quot;">
+      <created>1596364941346</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1596364941346</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="761295000" />
+    <option name="totallyTimeSpent" value="761515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -766,13 +739,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../written_examination/Alibaba/src/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/written_examination/alibaba/Main1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1144,8 +1110,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_67_字符串转换成整数.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="-360">
           <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/written_examination/PDD/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>
