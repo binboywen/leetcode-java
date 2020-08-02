@@ -7,7 +7,7 @@ package jianzhiOffer;
  * 数字不在该数组中，请找出这个数字。
  * 可以采用基于二分的方法解决
  */
-public class _53_2_getMissingNumber {
+public class _53_2_0到n中缺失的数字 {
     /**
      * 如果中间元素的值和下标相等，那么下一轮只需要查找右边；
      * 如果不相等，并且它前面一个元素和它的下标相等，那么中间

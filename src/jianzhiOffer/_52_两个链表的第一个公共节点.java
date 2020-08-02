@@ -17,7 +17,9 @@ package jianzhiOffer;
  * 2)如果一个有环一个无环则不可能相交
  * 3)如果两个链表都有环，此时分三种情况讨论
  */
-public class _52_FindFirstCommonNode {
+public class _52_两个链表的第一个公共节点 {
+
+
     public static class Node {
         public int value;
         public Node next;
@@ -26,18 +28,59 @@ public class _52_FindFirstCommonNode {
             this.value = data;
         }
     }
+    /**
+     * 如果说明没有环的情况
+     */
+    public Node getIntersectionNode(Node headA, Node headB) {
+        int length1 = 0, length2 = 0;
+        Node temp1 = headA;
+        while(temp1 != null){
+            length1++;
+            temp1 = temp1.next;
+        }
+        Node temp2 = headB;
+        while(temp2 != null){
+            length2++;
+            temp2 = temp2.next;
+        }
+        temp1 = headA;
+        temp2 = headB;
+        int maxLength = Math.max(length2,length1);
+        int abs = Math.abs(length1 - length2);
+        if(maxLength == length1){
+            while(abs-->0){
+                temp1 = temp1.next;
+            }
+        }
+        else{
+            while(abs-->0){
+                temp2 = temp2.next;
+            }
+        }
+        while(temp1 != null && temp2 != null){
+            if(temp1 == temp2){
+                return temp1;
+            }
+            temp2 = temp2.next;
+            temp1 = temp1.next;
+        }
+        return null;
+    }
 
-    public static Node getIntersectNode(Node head1, Node head2) {
-        if (head1 == null || head2 == null) {
+    /**
+     *需要先判环
+     */
+    public static Node getIntersectNode(Node headA, Node headB) {
+        if (headA == null || headB == null) {
             return null;
         }
-        Node loop1 = getLoopNode(head1);
-        Node loop2 = getLoopNode(head2);
+        Node loop1 = getLoopNode(headA);
+        Node loop2 = getLoopNode(headB);
         if (loop1 == null && loop2 == null) {
-            return noLoop(head1, head2);
+            return noLoop(headA, headB);
         }
         if (loop1 != null && loop2 != null) {
-            return bothLoop(head1, loop1, head2, loop2);
+            return bothLoop(headA, loop1, headB, loop2);
         }
         return null;
     }

@@ -5,7 +5,7 @@ package jianzhiOffer;
  * 假设一个单调递增的数组里的每一个元素都是整数并且是唯一的，
  * 请找出数组中任意一个数值等于其下标的元素。
  */
-public class _53_3_GetNumberSameAsIndex {
+public class _53_3_数值和下标相等的元素 {
     /**
      * 暴力解法为O(N)
      * 由于数组是递增的，因此可以利用二分方法求解

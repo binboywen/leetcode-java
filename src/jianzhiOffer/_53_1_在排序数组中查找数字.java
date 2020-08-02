@@ -3,7 +3,7 @@ package jianzhiOffer;
 /**
  * 数字在排序数组中出现的次数
  */
-public class _53_1_getTimesOfNumberInSortedArray {
+public class _53_1_在排序数组中查找数字 {
     public int GetNumberOfK(int [] nums, int k){
         int first = binarySearch(nums, k);
         int last = binarySearch(nums, k + 1);

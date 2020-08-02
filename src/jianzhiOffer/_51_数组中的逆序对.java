@@ -7,17 +7,18 @@ package jianzhiOffer;
  * 归并排序可解决逆序对问题
  */
 public class _51_数组中的逆序对 {
-    private long cnt = 0L;
+    private int cnt = 0;
 
     public int InversePairs(int [] nums){
         mergeSort(nums, 0, nums.length - 1);
-        return (int)this.cnt % 1000000007;
+        return this.cnt ;
     }
 
-    private void mergeSort(int [] nums, int l,int r){
-        if(r == l)
+
+    public void mergeSort(int [] nums, int l,int r){
+        if(l >= r)
             return;
-        int mid = l + ((r - l) >> 1);
+        int mid = ((r + l) / 2);
         mergeSort(nums,l,mid);
         mergeSort(nums,mid+1,r);
         merge(nums,l,mid,r);
@@ -33,7 +34,7 @@ public class _51_数组中的逆序对 {
                 help[i++] = nums[p1++];
             }else{
                 help[i++] = nums[p2++];
-                cnt = (cnt + m - p1 + 1) % 1000000007;
+                cnt = (cnt + m - p1 + 1);
             }
         }
         while (p1 <= m) {
