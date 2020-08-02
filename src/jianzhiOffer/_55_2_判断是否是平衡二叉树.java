@@ -3,7 +3,7 @@ package jianzhiOffer;
 /**
  * 判断一棵树是否是平衡二叉树
  */
-public class _55_2_IsBalancedTree {
+public class _55_2_判断是否是平衡二叉树 {
     private boolean isBlanced = true;
     public boolean IsBalances(TreeNode root){
         height(root);
