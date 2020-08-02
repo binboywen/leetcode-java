@@ -11,17 +11,17 @@ import java.util.Arrays;
  * 应该比较的是 S1+S2 和 S2+S1 的大小，如果 S1+S2 < S2+S1，
  * 那么应该把 S1 排在前面，否则应该把 S2 排在前面。
  */
-public class _45_PrintMinNumber {
-    public String PrintMinNumber(int[] numbers) {
-        if (numbers == null || numbers.length == 0)
+public class _45_把数组排成最小的数 {
+    public String PrintMinNumber(int[] nums) {
+        if (nums == null || nums.length == 0)
             return "";
-        int n = numbers.length;
-        String[] nums = new String[n];
+        int n = nums.length;
+        String[] arr = new String[n];
         for (int i = 0; i < n; i++)
-            nums[i] = numbers[i] + "";
-        Arrays.sort(nums, (s1, s2) -> (s1 + s2).compareTo(s2 + s1));
+            arr[i] = nums[i] + "";
+        Arrays.sort(arr, (s1, s2) -> (s1 + s2).compareTo(s2 + s1));
         String ret = "";
-        for (String str : nums)
+        for (String str : arr)
             ret += str;
         return ret;
     }

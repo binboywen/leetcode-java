@@ -12,7 +12,7 @@ import java.util.Set;
  * 例如对于arabcacfr，最长不含重复字符的子字符串为acfr，
  * 长度为4。
  */
-public class _48_longestSubStringWithoutDuplication {
+public class _48_最长不含重复字符的子字符串 {
     /**
      * 暴力法直接遍历所有字符串，检查是否包含有重复的字符串
      */

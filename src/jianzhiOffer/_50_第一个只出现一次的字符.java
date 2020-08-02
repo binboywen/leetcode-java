@@ -7,7 +7,7 @@ import java.util.BitSet;
  * 在字符串中找出第一个只出现一次的字符。如输入"abaxxdeff"
  * 则输出'b'
  */
-public class _50_FirstNotRepeatingChar {
+public class _50_第一个只出现一次的字符 {
     /**
      * 首先想到的方法当让是使用HashMap
      * 并且可以使用整型数组代替HashMap

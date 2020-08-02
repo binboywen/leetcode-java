@@ -4,14 +4,14 @@
     <bookmark url="file://$PROJECT_DIR$/src/leetcode/problem10_isMatchRegularExpression.java" line="98" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09605ec9-fcd9-4732-a990-596df1703113" name="Default Changelist" comment="commit &quot;modify files&quot;">
+    <list default="true" id="09605ec9-fcd9-4732-a990-596df1703113" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/jianzhiOffer/_51_数组中逆序对_.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_39_theNumOverHalfLengthOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_39_数组中出现次数超过一半的数字.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_40_getLeastNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_40_最小的K个数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_41_1_getMiddleNumberOfDataStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_41_1_数据流中的中位数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_41_2_FirstAppearingOnce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_41_2_字符流中第一个只出现一次的字符.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_42_FindGreatestSumOfSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_42_连续子数组的最大和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_43_NumberOf1Between1AndN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_43_1到N中1出现的次数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_45_PrintMinNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_45_把数组排成最小的数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_48_longestSubStringWithoutDuplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_48_最长不含重复字符的子字符串.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_49_GetUglyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_49_丑数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_50_FirstNotRepeatingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_50_第一个只出现一次的字符.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_51_InversePairs.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/../s2gciy/miaosha_1/target/" />
@@ -31,40 +31,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_39_数组中出现次数超过一半的数字.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="30" column="69" lean-forward="true" selection-start-line="30" selection-start-column="69" selection-end-line="30" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_40_最小的K个数.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-570">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_41_1_数据流中的中位数.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-360">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_41_2_字符流中第一个只出现一次的字符.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+            <state relative-caret-position="660">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -78,11 +48,74 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_43_1到N中1出现的次数.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="480">
+              <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_44_getDigitAtIndex.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-808">
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_45_把数组排成最小的数.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_48_最长不含重复字符的子字符串.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_49_丑数.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="46" column="35" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_50_第一个只出现一次的字符.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-90">
+              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_51_数组中逆序对_.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_46_numDecodingsToString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="422">
+              <caret line="69" column="44" lean-forward="true" selection-start-line="69" selection-start-column="44" selection-end-line="69" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -107,16 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/jianzhiOffer/_10_1_斐波那契数列.java" />
-        <option value="$PROJECT_DIR$/src/jianzhiOffer/_12_矩阵中的路径.java" />
-        <option value="$PROJECT_DIR$/src/jianzhiOffer/_14_剪绳子.java" />
-        <option value="$PROJECT_DIR$/src/jianzhiOffer/_15_二进制中1的个数.java" />
-        <option value="$PROJECT_DIR$/src/jianzhiOffer/_16_数值的整数次方.java" />
-        <option value="$PROJECT_DIR$/src/jianzhiOffer/_17_print1ToMaxOfNDigits.java" />
-        <option value="$PROJECT_DIR$/src/jianzhiOffer/_17_打印从1到最大的N位数.java" />
-        <option value="$PROJECT_DIR$/src/jianzhiOffer/_18_2_删除链表中重复的节点.java" />
-        <option value="$PROJECT_DIR$/src/jianzhiOffer/_19_正则表达式匹配.java" />
-        <option value="$PROJECT_DIR$/src/jianzhiOffer/_20_表示数值的字符串.java" />
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_22_链表的倒数第K个节点.java" />
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_23_链表中环的入口节点.java" />
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_25_mergeTwoSortedList.java" />
@@ -158,6 +181,16 @@
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_41_1_数据流中的中位数.java" />
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_41_2_字符流中第一个只出现一次的字符.java" />
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_42_连续子数组的最大和.java" />
+        <option value="$PROJECT_DIR$/src/jianzhiOffer/_43_1到N中1出现的次数.java" />
+        <option value="$PROJECT_DIR$/src/jianzhiOffer/_45_PrintMinNumber.java" />
+        <option value="$PROJECT_DIR$/src/jianzhiOffer/_45_把数组排成最小的数.java" />
+        <option value="$PROJECT_DIR$/src/jianzhiOffer/_48_最长不含重复字符的子字符串.java" />
+        <option value="$PROJECT_DIR$/src/jianzhiOffer/_49_GetUglyNumber.java" />
+        <option value="$PROJECT_DIR$/src/jianzhiOffer/_49_丑数.java" />
+        <option value="$PROJECT_DIR$/src/jianzhiOffer/_50_第一个只出现一次的字符.java" />
+        <option value="$PROJECT_DIR$/src/jianzhiOffer/_51_InversePairs.java" />
+        <option value="$PROJECT_DIR$/src/jianzhiOffer/_51_数组中逆序对.java" />
+        <option value="$PROJECT_DIR$/src/jianzhiOffer/_51_数组中逆序对_.java" />
       </list>
     </option>
   </component>
@@ -189,6 +222,12 @@
               <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
               <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
               <item name="jianzhiOffer" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
+              <item name="jianzhiOffer" type="1f31426a:PackageElementNode" />
+              <item name="_51_数组中逆序对_.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
@@ -429,7 +468,7 @@
       <workItem from="1595989099976" duration="6773000" />
       <workItem from="1596114871368" duration="23767000" />
       <workItem from="1596256948809" duration="12364000" />
-      <workItem from="1596332987142" duration="3440000" />
+      <workItem from="1596332987142" duration="4760000" />
     </task>
     <task id="LOCAL-00001" summary="commit &quot;modify files&quot;">
       <created>1595254282864</created>
@@ -613,11 +652,18 @@
       <option name="project" value="LOCAL" />
       <updated>1596270834522</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="commit &quot;modify files&quot;">
+      <created>1596337976981</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1596337976981</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="745722000" />
+    <option name="totallyTimeSpent" value="747042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -704,66 +750,12 @@
     <MESSAGE value="commit &quot;modify files&quot;" />
     <option name="LAST_COMMIT_MESSAGE" value="commit &quot;modify files&quot;" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/jianzhiOffer/_46_numDecodingsToString.java</url>
-          <line>73</line>
-          <properties />
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode$_38_printAllPermutations.ic" NAME="_38_printAllPermutations Coverage Results" MODIFIED="1581170834007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>jianzhiOffer.*</FILTER>
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_26_树的子结构.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_27_二叉树的镜像.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_28_对称的二叉树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_29_顺时针打印矩阵.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_30_包含min函数的栈.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_31_栈的压入弹出序列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_32_1_从上到下打印二叉树.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -830,13 +822,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-390">
           <caret line="37" column="18" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_48_longestSubStringWithoutDuplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-912">
-          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1066,13 +1051,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_41_2_字符流中第一个只出现一次的字符.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_42_连续子数组的最大和.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -1080,10 +1058,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_46_numDecodingsToString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="69" column="44" lean-forward="true" selection-start-line="69" selection-start-column="44" selection-end-line="69" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_43_1到N中1出现的次数.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        <state relative-caret-position="480">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_44_getDigitAtIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-808">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_45_把数组排成最小的数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_48_最长不含重复字符的子字符串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_49_丑数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="46" column="35" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_41_2_字符流中第一个只出现一次的字符.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_50_第一个只出现一次的字符.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_51_数组中逆序对_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
         </state>
       </provider>
     </entry>
