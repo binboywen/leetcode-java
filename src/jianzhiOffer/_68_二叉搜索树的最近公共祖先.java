@@ -4,7 +4,7 @@ package jianzhiOffer;
  * 树中两个节点的最低公共祖先
 
  */
-public class _68_lowestCommonAncestor {
+public class _68_二叉搜索树的最近公共祖先 {
     /**
      * 二叉查找树中，两个节点 p, q 的公共祖先 root
      * 满足 root.val >= p.val && root.val <= q.val。

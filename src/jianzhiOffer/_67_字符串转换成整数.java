@@ -11,6 +11,8 @@ public class _67_字符串转换成整数 {
     public int strToInt2(String str) {
         char[] c = str.trim().toCharArray();
         if(c.length == 0) return 0;
+        //int_max = 2147483647
+        //bndry = 214748364
         int res = 0, bndry = Integer.MAX_VALUE / 10;
         int i = 1, sign = 1;
         if(c[0] == '-') sign = -1;

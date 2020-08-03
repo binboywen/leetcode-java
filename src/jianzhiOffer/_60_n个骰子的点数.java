@@ -11,7 +11,7 @@ import java.util.*;
  * 出现的次数，然后把每个点数出现的次数除以6的n次方，就能求出
  * 每个点数出现的概率。
  */
-public class _60_printProbability {
+public class _60_n个骰子的点数 {
     /**
      * 思路一：递归暴力
      * 我们知道点数之和s的最小值为n，最大值为6*n，
@@ -110,7 +110,7 @@ public class _60_printProbability {
             dp[1][i] = 1;
 
         for (int i = 2; i <= n; i++)
-            for (int j = i; j <= pointNum; j++)     /* 使用 i 个骰子最小点数为 i */
+            for (int j = i; j <= i*6; j++)     /* 使用 i 个骰子最小点数为 i */
                 for (int k = 1; k <= face && k <= j; k++) /*状态转移方程 */
                     dp[i][j] += dp[i - 1][j - k];
 

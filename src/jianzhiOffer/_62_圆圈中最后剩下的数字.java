@@ -13,7 +13,7 @@ import java.util.List;
  * 继续 0...m-1 报数 .... 这样下去 ....
  * 直到剩下最后一个小朋友，可以不用表演。
  */
-public class _62_LastRemaining {
+public class _62_圆圈中最后剩下的数字 {
     /**
      * 约瑟夫环，圆圈长度为 n 的解可以看成长度为
      * n-1 的解再加上报数的长度 m。

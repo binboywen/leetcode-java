@@ -2,7 +2,10 @@ package jianzhiOffer;
 
 public class test2 {
     public static void main(String [] args){
-        StringBuffer sb = new StringBuffer("abcdefg");
-        System.out.println(sb.delete(1,2));
+        int a = 1;
+        int b = 1;
+        int c;
+
+        System.out.println(a == 1 ? b : b == 1 ? a : 3);
     }
 }
