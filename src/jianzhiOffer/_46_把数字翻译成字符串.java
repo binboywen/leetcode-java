@@ -8,7 +8,27 @@ package jianzhiOffer;
  * 用来计算一个数字有多少种不同的翻译方法。
  */
 //先试试暴力递归然后改成动态规划
-public class _46_numDecodingsToString {
+public class _46_把数字翻译成字符串 {
+
+    //动态规划优化空间版
+    public int translateNum(int num) {
+        String string = String.valueOf(num);
+        int p = 0, q = 0, r = 1;
+        for(int i = 0; i < string.length(); i++){
+            p = q;
+            q = r;
+            r = 0;
+            r += q;
+            if(i == 0)
+                continue;
+            String pre = string.substring(i - 1, i + 1);
+            //01~09不合法
+            if(pre.compareTo("25") <= 0 && pre.compareTo("10") >= 0)
+                r+=p;
+        }
+        return r;
+    }
+
     public static int numDecodings(String s) {
         if(s == null || s.length() == 0)
             return 0;
@@ -23,7 +43,6 @@ public class _46_numDecodingsToString {
             return 0;
         int TwoNum = Integer.parseInt(s.substring(start, start+2));
         int ifTwoNum = TwoNum >= 10 && TwoNum <= 25 ? 1 : 0;
-
         return GetTranslationCount(s,start+1) + ifTwoNum * GetTranslationCount(s, start + 2);
     }
 
@@ -66,6 +85,7 @@ public class _46_numDecodingsToString {
         }
         return dp[n];
     }
+
 
     public static void main(String [] args){
         String s = "12258";
