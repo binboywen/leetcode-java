@@ -1,5 +1,8 @@
 package jianzhiOffer;
 
+import java.util.Arrays;
+import java.util.Comparator;
+
 /**
  * 数字序列中的某一位数字
  * 数字以 0123456789101112131415... 的格式序列化到一个字符串中，求这个字符串的第 index 位。
@@ -19,6 +22,8 @@ public class _44_数字序列中某一位的数字 {
             count = digit * start * 9;
         }
         long num = start + (n - 1) / digit;
+        int [] aa = new int[10];
+        Arrays.sort(aa);
         return Long.toString(num).charAt((n - 1) % digit) - '0';
     }
 }

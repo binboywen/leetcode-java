@@ -2,6 +2,17 @@ package written_examination.yuanFuDao;
 
 import java.util.*;
 
+/**
+ * 大意是给出每堂课的开始和结束时间，课程之间可能有冲突，有特异功能，上全部课最少需要一心几用。
+ * 输入N表示N节课，接下来输入N行每行输入课程的开始时间和结束时间，求最多的时候有几节课时间重了。
+ * 输入示例 ：
+ * 4
+ * 1 4
+ * 1 2
+ * 2 3
+ * 3 4
+ * 输出：2
+ */
 public class Main {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);

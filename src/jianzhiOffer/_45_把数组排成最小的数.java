@@ -1,6 +1,8 @@
 package jianzhiOffer;
 
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.Comparator;
 
 /**
  * 输入一个正整数数组，把数组里所有数字拼接起来排成一个数，
@@ -12,6 +14,10 @@ import java.util.Arrays;
  * 那么应该把 S1 排在前面，否则应该把 S2 排在前面。
  */
 public class _45_把数组排成最小的数 {
+    class Node{
+        int val;
+        double test;
+    }
     public String PrintMinNumber(int[] nums) {
         if (nums == null || nums.length == 0)
             return "";

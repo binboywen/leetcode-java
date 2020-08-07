@@ -104,7 +104,7 @@ public class _17_打印从1到最大的N位数 {
         while (index < number.length && number[index] == '0')
             index++;
         while (index < number.length)
-            System.out.println(number[index++]);
+            System.out.print(number[index++]);
         System.out.println();
     }
 
