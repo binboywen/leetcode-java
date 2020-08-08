@@ -15,17 +15,16 @@ public class Main {
         int n = sc.nextInt();
         double f = 1.0/5;
         boolean flag = true;
-        for (int i = 1; i <= n; i++) {
-            double temp = 1.0 / (5 * 2 * i);
+        for (int i = 1; i <= 2*n; i++) {
+            double temp = 1.0 / (5  * i);
             if (flag) {
                 temp = -temp;
             }
             f+=temp;
             flag = !flag;
         }
-        BigDecimal a = new BigDecimal(f);
-        a.setScale(4,BigDecimal.ROUND_HALF_UP);
-        String format = new DecimalFormat("0.0000").format(a);
+        double result = (double) Math.round(f * 10000)/10000;
+        String format = new DecimalFormat("0.0000").format(result);
         System.out.println(format);
     }
 }
