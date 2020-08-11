@@ -4,19 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/src/leetcode/problem10_isMatchRegularExpression.java" line="98" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09605ec9-fcd9-4732-a990-596df1703113" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jianzhiOffer/_00_比较器的使用.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/written_examination/yuanFuDao/Main1.java" afterDir="false" />
+    <list default="true" id="09605ec9-fcd9-4732-a990-596df1703113" name="Default Changelist" comment="commit &quot;modify files&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_44_getDigitAtIndex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_46_numDecodingsToString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_47_getMaxValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_60_printProbability.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/_62_LastRemaining.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_17_打印从1到最大的N位数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_17_打印从1到最大的N位数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_44_数字序列中某一位的数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_44_数字序列中某一位的数字.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_45_把数组排成最小的数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_45_把数组排成最小的数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/written_examination/yuanFuDao/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/written_examination/yuanFuDao/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/../s2gciy/miaosha_1/target/" />
@@ -36,40 +25,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/written_examination/yuanFuDao/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-161">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/written_examination/yuanFuDao/Main1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <element signature="e#144#145#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/written_examination/PDD/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_45_把数组排成最小的数.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
+            <state relative-caret-position="720">
               <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -81,7 +39,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_44_数字序列中某一位的数字.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="614">
+            <state relative-caret-position="720">
               <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -90,24 +48,77 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_00_比较器的使用.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="64" column="42" selection-start-line="64" selection-start-column="42" selection-end-line="64" selection-end-column="42" />
+            <state relative-caret-position="1410">
+              <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
               <folding>
+                <element signature="e#275#276#0" expanded="true" />
                 <element signature="e#313#314#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-                <element signature="e#508#509#0" expanded="true" />
-                <element signature="e#678#679#0" expanded="true" />
-                <element signature="e#710#711#0" expanded="true" />
+                <element signature="e#993#994#0" expanded="true" />
                 <element signature="e#1039#1040#0" expanded="true" />
                 <element signature="e#1322#1323#0" expanded="true" />
-                <element signature="e#1362#1363#0" expanded="true" />
+                <element signature="e#1374#1375#0" expanded="true" />
                 <element signature="e#1685#1686#0" expanded="true" />
-                <element signature="e#1725#1726#0" expanded="true" />
-                <element signature="e#1508#1509#0" expanded="true" />
-                <element signature="e#1548#1549#0" expanded="true" />
+                <element signature="e#1752#1753#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/util/Comparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3660">
+              <caret line="150" selection-start-line="150" selection-end-line="150" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/problem23_mergeKsortedLists.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3930">
+              <caret line="131" column="33" selection-start-line="131" selection-start-column="33" selection-end-line="131" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_34_二叉树中和为某一值的路径.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="24" column="16" selection-start-line="24" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_14_剪绳子.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/written_examination/Wangyi/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/written_examination/jingdong/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="602">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -116,8 +127,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_41_1_数据流中的中位数.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="709">
-              <caret line="76" column="48" lean-forward="true" selection-start-line="76" selection-start-column="48" selection-end-line="76" selection-end-column="48" />
+            <state relative-caret-position="2220">
+              <caret line="76" column="48" selection-start-line="76" selection-start-column="48" selection-end-line="76" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -203,7 +214,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="-1928" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -213,6 +224,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
+              <item name="written_examination" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
+              <item name="written_examination" type="1f31426a:PackageElementNode" />
+              <item name="jingdong" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
+              <item name="written_examination" type="1f31426a:PackageElementNode" />
+              <item name="Wangyi" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,45 +264,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
-              <item name="jianzhiOffer" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
-              <item name="jianzhiOffer" type="1f31426a:PackageElementNode" />
-              <item name="_20_表示数值的字符串.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
-              <item name="written_examination" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
-              <item name="written_examination" type="1f31426a:PackageElementNode" />
-              <item name="PDD" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
-              <item name="written_examination" type="1f31426a:PackageElementNode" />
-              <item name="yuanFuDao" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -478,7 +478,9 @@
       <workItem from="1596256948809" duration="12364000" />
       <workItem from="1596332987142" duration="22145000" />
       <workItem from="1596417009979" duration="21242000" />
-      <workItem from="1596684846897" duration="12345000" />
+      <workItem from="1596684846897" duration="14015000" />
+      <workItem from="1596867362075" duration="2102000" />
+      <workItem from="1597021362361" duration="1680000" />
     </task>
     <task id="LOCAL-00001" summary="commit &quot;modify files&quot;">
       <created>1595254282864</created>
@@ -725,17 +727,24 @@
       <option name="project" value="LOCAL" />
       <updated>1596438891970</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="commit &quot;modify files&quot;">
+      <created>1596793479504</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1596793479504</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="798014000" />
+    <option name="totallyTimeSpent" value="803466000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22639485" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23283261" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -744,13 +753,13 @@
       <window_info id="Image Layers" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.49892703" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49839056" weight="0.40333334" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49839056" weight="0.36" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="5" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50160944" side_tool="true" weight="0.26777777" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50107294" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
@@ -822,55 +831,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_57_1_和为S的两个数字.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="30" column="91" selection-start-line="30" selection-start-column="91" selection-end-line="30" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_56_1_两个只出现一次的数字.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_56_2_只出现一次的数字其余三次.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="33" column="9" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="33" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_55_1_二叉树的深度.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_54_二叉搜索树的第K大节点.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_53_3_数值和下标相等的元素.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_53_2_0到n中缺失的数字.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_53_1_在排序数组中查找数字.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -1116,13 +1076,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_14_剪绳子.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_13_机器人的运动范围.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1130,36 +1083,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_41_1_数据流中的中位数.java">
+    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="709">
-          <caret line="76" column="48" lean-forward="true" selection-start-line="76" selection-start-column="48" selection-end-line="76" selection-end-column="48" />
+        <state relative-caret-position="430">
+          <caret line="1311" column="33" selection-start-line="1311" selection-start-column="33" selection-end-line="1311" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_45_把数组排成最小的数.java">
+    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/util/ComparableTimSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_44_数字序列中某一位的数字.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="614">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-11771">
+          <caret line="178" column="16" selection-start-line="178" selection-start-column="16" selection-end-line="178" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/written_examination/yuanFuDao/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-161">
+        <state relative-caret-position="450">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
@@ -1177,28 +1117,96 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/written_examination/PDD/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        <state relative-caret-position="510">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_45_把数组排成最小的数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_44_数字序列中某一位的数字.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_00_比较器的使用.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="64" column="42" selection-start-line="64" selection-start-column="42" selection-end-line="64" selection-end-column="42" />
+        <state relative-caret-position="1410">
+          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
           <folding>
+            <element signature="e#275#276#0" expanded="true" />
             <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#508#509#0" expanded="true" />
-            <element signature="e#678#679#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#993#994#0" expanded="true" />
             <element signature="e#1039#1040#0" expanded="true" />
             <element signature="e#1322#1323#0" expanded="true" />
-            <element signature="e#1362#1363#0" expanded="true" />
+            <element signature="e#1374#1375#0" expanded="true" />
             <element signature="e#1685#1686#0" expanded="true" />
-            <element signature="e#1725#1726#0" expanded="true" />
-            <element signature="e#1508#1509#0" expanded="true" />
-            <element signature="e#1548#1549#0" expanded="true" />
+            <element signature="e#1752#1753#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3660">
+          <caret line="150" selection-start-line="150" selection-end-line="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/problem23_mergeKsortedLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3930">
+          <caret line="131" column="33" selection-start-line="131" selection-start-column="33" selection-end-line="131" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_34_二叉树中和为某一值的路径.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="24" column="16" selection-start-line="24" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_14_剪绳子.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_41_1_数据流中的中位数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2220">
+          <caret line="76" column="48" selection-start-line="76" selection-start-column="48" selection-end-line="76" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/written_examination/Wangyi/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/written_examination/jingdong/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
