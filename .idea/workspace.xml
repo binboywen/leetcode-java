@@ -4,15 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/src/leetcode/problem10_isMatchRegularExpression.java" line="98" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09605ec9-fcd9-4732-a990-596df1703113" name="Default Changelist" comment="commit &quot;modify files&quot;">
-      <change afterPath="$PROJECT_DIR$/src/written_examination/Envision/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/written_examination/beike/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/written_examination/beike/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/written_examination/beike/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/written_examination/beike/Main4.java" afterDir="false" />
+    <list default="true" id="09605ec9-fcd9-4732-a990-596df1703113" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/written_examination/huawei/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/written_examination/alibaba/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/written_examination/alibaba/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/written_examination/beike/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/written_examination/Envision/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/written_examination/Envision/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/../s2gciy/miaosha_1/target/" />
@@ -32,10 +27,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/written_examination/Envision/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/written_examination/huawei/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="330">
+              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+              <folding>
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/pack_problem/_3_多重背包二进制优化.java" />
         <option value="$PROJECT_DIR$/src/pack_problem/_4_混合背包问题.java" />
         <option value="$PROJECT_DIR$/src/OneQuestionPerDay/最近公共父节点.java" />
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_29_PrintMatrixSpiralOrder.java" />
@@ -111,6 +109,7 @@
         <option value="$PROJECT_DIR$/src/written_examination/beike/Main4.java" />
         <option value="$PROJECT_DIR$/src/written_examination/alibaba/Main1.java" />
         <option value="$PROJECT_DIR$/src/written_examination/Envision/Main.java" />
+        <option value="$PROJECT_DIR$/src/written_examination/huawei/Main.java" />
       </list>
     </option>
   </component>
@@ -156,7 +155,7 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="written_examination" type="462c0819:PsiDirectoryNode" />
-              <item name="Envision" type="462c0819:PsiDirectoryNode" />
+              <item name="huawei" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -191,82 +190,6 @@
         </RuleState>
       </list>
     </option>
-  </component>
-  <component name="RunManager" selected="Application.Main2 (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="written_examination.PDD.Main" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="written_examination.PDD.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="written_examination.jingdong.Main" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="written_examination.jingdong.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="written_examination.Wangyi.Main" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="written_examination.Wangyi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="written_examination.beike.Main1" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="written_examination.beike.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="written_examination.beike.Main2" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="written_examination.beike.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main2 (1)" />
-        <item itemvalue="Application.Main1" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -379,7 +302,8 @@
       <workItem from="1596715035337" duration="4337000" />
       <workItem from="1596785319891" duration="6179000" />
       <workItem from="1597142951337" duration="7174000" />
-      <workItem from="1597193275215" duration="137000" />
+      <workItem from="1597193275215" duration="2565000" />
+      <workItem from="1597201374255" duration="295000" />
     </task>
     <task id="LOCAL-00001" summary="commit &quot;modify files&quot;">
       <created>1595254282864</created>
@@ -465,17 +389,24 @@
       <option name="project" value="LOCAL" />
       <updated>1596876454436</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commit &quot;modify files&quot;">
+      <created>1597193561284</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1597193561284</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="688526000" />
+    <option name="totallyTimeSpent" value="691249000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25567323" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12783661" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -558,21 +489,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_68_lowestCommonAncestor.java" />
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_53_2_getMissingNumber.java" />
-    <entry file="file://$PROJECT_DIR$/src/ThreadPool/MyThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_34_findPathOfTreeWithSum.java" />
     <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_15_numberOf1InBinary.java" />
     <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_16_intPowerOfNumber.java" />
     <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_38_printAllPermutations_1.java" />
@@ -774,20 +690,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/written_examination/beike/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/written_examination/beike/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/written_examination/beike/Main3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -811,8 +713,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/written_examination/Envision/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_62_圆圈中最后剩下的数字.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_61_扑克牌中的顺子.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/written_examination/beike/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/written_examination/beike/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_60_n个骰子的点数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/written_examination/huawei/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
