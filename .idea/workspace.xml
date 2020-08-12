@@ -4,8 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/leetcode/problem10_isMatchRegularExpression.java" line="98" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09605ec9-fcd9-4732-a990-596df1703113" name="Default Changelist" comment="commit &quot;modify files&quot;">
+    <list default="true" id="09605ec9-fcd9-4732-a990-596df1703113" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/written_examination/beike/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/written_examination/beike/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/../s2gciy/miaosha_1/target/" />
@@ -17,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="190" />
+    <option name="myElementSize" value="260" />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -25,21 +26,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_45_把数组排成最小的数.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_44_数字序列中某一位的数字.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
+            <state>
               <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -51,7 +40,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_00_比较器的使用.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1410">
+            <state>
               <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
               <folding>
                 <element signature="e#275#276#0" expanded="true" />
@@ -70,7 +59,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/util/Comparator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3660">
+            <state>
               <caret line="150" selection-start-line="150" selection-end-line="150" />
             </state>
           </provider>
@@ -79,7 +68,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/problem23_mergeKsortedLists.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3930">
+            <state>
               <caret line="131" column="33" selection-start-line="131" selection-start-column="33" selection-end-line="131" selection-end-column="33" />
             </state>
           </provider>
@@ -88,7 +77,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_34_二叉树中和为某一值的路径.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
+            <state>
               <caret line="24" column="16" selection-start-line="24" selection-end-line="25" />
             </state>
           </provider>
@@ -97,7 +86,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_14_剪绳子.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state>
               <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
@@ -106,17 +95,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/written_examination/Wangyi/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state>
               <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/written_examination/jingdong/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="602">
-              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            <state>
+              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/written_examination/beike/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -127,7 +128,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_41_1_数据流中的中位数.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2220">
+            <state>
               <caret line="76" column="48" selection-start-line="76" selection-start-column="48" selection-end-line="76" selection-end-column="48" />
             </state>
           </provider>
@@ -153,7 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/written_examination/qiAnXin/Solution.java" />
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_39_数组中出现次数超过一半的数字.java" />
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_40_最小的K个数.java" />
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_41_1_数据流中的中位数.java" />
@@ -204,6 +204,7 @@
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_17_打印从1到最大的N位数.java" />
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_45_把数组排成最小的数.java" />
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_00_比较器的使用.java" />
+        <option value="$PROJECT_DIR$/src/written_examination/beike/Main.java" />
       </list>
     </option>
   </component>
@@ -214,7 +215,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -224,6 +225,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -235,12 +237,6 @@
               <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
               <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
               <item name="written_examination" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
-              <item name="written_examination" type="1f31426a:PackageElementNode" />
-              <item name="jingdong" type="1f31426a:PackageElementNode" />
             </path>
             <path>
               <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
@@ -263,7 +259,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -274,7 +269,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -293,13 +288,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main1">
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="written_examination.yuanFuDao.Main1" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="written_examination.beike.Main" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="written_examination.yuanFuDao.*" />
+          <option name="PATTERN" value="written_examination.beike.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -307,12 +302,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="written_examination.qiAnXin.Main2" />
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="written_examination.yuanFuDao.Main1" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="written_examination.qiAnXin.*" />
+          <option name="PATTERN" value="written_examination.yuanFuDao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -361,11 +356,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main1" />
         <item itemvalue="Application.test2" />
         <item itemvalue="Application._58_1_反转单词顺序" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Main2 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -480,7 +475,8 @@
       <workItem from="1596417009979" duration="21242000" />
       <workItem from="1596684846897" duration="14015000" />
       <workItem from="1596867362075" duration="2102000" />
-      <workItem from="1597021362361" duration="1680000" />
+      <workItem from="1597021362361" duration="2387000" />
+      <workItem from="1597233694106" duration="4492000" />
     </task>
     <task id="LOCAL-00001" summary="commit &quot;modify files&quot;">
       <created>1595254282864</created>
@@ -734,17 +730,24 @@
       <option name="project" value="LOCAL" />
       <updated>1596793479504</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="commit &quot;modify files&quot;">
+      <created>1597143146660</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1597143146660</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="803466000" />
+    <option name="totallyTimeSpent" value="808665000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23283261" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2360515" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -767,7 +770,7 @@
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="bottom" id="Spring" order="13" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
-      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32980332" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32939914" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
@@ -829,15 +832,11 @@
     <SUITE FILE_PATH="coverage/LeetCode$_38_printAllPermutations.ic" NAME="_38_printAllPermutations Coverage Results" MODIFIED="1581170834007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>jianzhiOffer.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/LeetCode$Main.ic" NAME="Main Coverage Results" MODIFIED="1597234300948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>written_examination.beike.*</FILTER>
+    </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_53_1_在排序数组中查找数字.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_52_两个链表的第一个公共节点.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -1134,7 +1133,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_44_数字序列中某一位的数字.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
+        <state>
           <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1144,7 +1143,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_00_比较器的使用.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1410">
+        <state>
           <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
           <folding>
             <element signature="e#275#276#0" expanded="true" />
@@ -1161,50 +1160,60 @@
     </entry>
     <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3660">
+        <state>
           <caret line="150" selection-start-line="150" selection-end-line="150" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/problem23_mergeKsortedLists.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3930">
+        <state>
           <caret line="131" column="33" selection-start-line="131" selection-start-column="33" selection-end-line="131" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_34_二叉树中和为某一值的路径.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
+        <state>
           <caret line="24" column="16" selection-start-line="24" selection-end-line="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_14_剪绳子.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state>
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_41_1_数据流中的中位数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2220">
-          <caret line="76" column="48" selection-start-line="76" selection-start-column="48" selection-end-line="76" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/written_examination/Wangyi/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state>
           <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/written_examination/jingdong/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        <state>
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_41_1_数据流中的中位数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="76" column="48" selection-start-line="76" selection-start-column="48" selection-end-line="76" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/written_examination/beike/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
