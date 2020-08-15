@@ -1,7 +1,5 @@
 package written_examination.alibaba;
 
-
-
 import java.util.Scanner;
 
 public class Main1 {
