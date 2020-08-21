@@ -7,10 +7,10 @@ public class Main1 {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        int [] array = new int[n * n];
+        long [] array = new long[n * n];
         index = array.length - 1;
         fb(array,n*n);
-        int [][] matrix = new int[n][n];
+        long [][] matrix = new long[n][n];
         sprialOrder(matrix,array);
         for(int i = 0; i < n; i++){
             for(int j = 0; j < n; j++){
@@ -23,7 +23,7 @@ public class Main1 {
         }
     }
 
-    public static void fb(int [] array, int n){
+    public static void fb(long [] array, int n){
         if(n == 1){
             array[0] = 1;
             return ;
@@ -42,7 +42,7 @@ public class Main1 {
             return;
         }
     }
-    public static void sprialOrder(int [][] matrix, int [] array){
+    public static void sprialOrder(long [][] matrix, long [] array){
         int tR = 0;
         int tC = 0;
         int dR =  matrix.length - 1;
@@ -51,7 +51,7 @@ public class Main1 {
             printEdge(matrix,array,tR++,tC++,dR--,dC--);
         }
     }
-    public static void printEdge(int [][] m,int [] array, int tR, int tC, int dR, int dC){
+    public static void printEdge(long [][] m,long [] array, int tR, int tC, int dR, int dC){
         if(tR == dR){
             for(int i = tC ; i <= dC; i++){
                 m[tR][i] = array[index];
