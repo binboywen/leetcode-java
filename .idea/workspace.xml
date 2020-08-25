@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09605ec9-fcd9-4732-a990-596df1703113" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/written_examination/Tencent/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/written_examination/Tencent/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/written_examination/perfectWorld/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/written_examination/perfectWorld/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/written_examination/perfectWorld/Main3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/jianzhiOffer/test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/written_examination/beike/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/written_examination/beike/Main4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/written_examination/meituan/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/written_examination/meituan/test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/../s2gciy/miaosha_1/target/" />
@@ -30,33 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/written_examination/beike/Main2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/written_examination/beike/Main3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/written_examination/beike/Main4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_29_顺时针打印矩阵.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,7 +57,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/written_examination/HW/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
+            <state relative-caret-position="3060">
               <caret line="103" selection-start-line="103" selection-end-line="103" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -99,17 +69,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/written_examination/Tencent/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="49" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
+            <state relative-caret-position="1470">
+              <caret line="49" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/written_examination/Tencent/Main2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/written_examination/perfectWorld/Main1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/written_examination/perfectWorld/Main2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1052">
+              <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/written_examination/Tencent/Main2.java">
+        <entry file="file://$PROJECT_DIR$/src/written_examination/perfectWorld/Main3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            <state relative-caret-position="480">
+              <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -143,9 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/jianzhiOffer/_45_PrintMinNumber.java" />
-        <option value="$PROJECT_DIR$/src/jianzhiOffer/_48_最长不含重复字符的子字符串.java" />
-        <option value="$PROJECT_DIR$/src/jianzhiOffer/_49_GetUglyNumber.java" />
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_49_丑数.java" />
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_50_第一个只出现一次的字符.java" />
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_51_InversePairs.java" />
@@ -194,6 +188,9 @@
         <option value="$PROJECT_DIR$/src/written_examination/meituan/test.java" />
         <option value="$PROJECT_DIR$/src/written_examination/Tencent/Main.java" />
         <option value="$PROJECT_DIR$/src/written_examination/Tencent/Main2.java" />
+        <option value="$PROJECT_DIR$/src/written_examination/perfectWorld/Main1.java" />
+        <option value="$PROJECT_DIR$/src/written_examination/perfectWorld/Main2.java" />
+        <option value="$PROJECT_DIR$/src/written_examination/perfectWorld/Main3.java" />
       </list>
     </option>
   </component>
@@ -230,7 +227,7 @@
               <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
               <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
               <item name="written_examination" type="1f31426a:PackageElementNode" />
-              <item name="Tencent" type="1f31426a:PackageElementNode" />
+              <item name="perfectWorld" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -280,7 +277,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main2">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="written_examination.Tencent.Main" />
       <module name="LeetCode" />
@@ -294,12 +291,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="written_examination.beike.Main" />
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="written_examination.perfectWorld.Main1" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="written_examination.beike.*" />
+          <option name="PATTERN" value="written_examination.perfectWorld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="written_examination.perfectWorld.Main2" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="written_examination.perfectWorld.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,26 +343,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhiOffer.test2" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jianzhiOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main1" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Main3" />
-        <item itemvalue="Application.test2" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -475,6 +472,7 @@
       <workItem from="1597824462962" duration="2789000" />
       <workItem from="1597893699269" duration="606000" />
       <workItem from="1598186311326" duration="3450000" />
+      <workItem from="1598342361847" duration="3250000" />
     </task>
     <task id="LOCAL-00001" summary="commit &quot;modify files&quot;">
       <created>1595254282864</created>
@@ -739,13 +737,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="837153000" />
+    <option name="totallyTimeSpent" value="840403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4982639" visible="true" weight="0.21888413" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4982639" visible="true" weight="0.22156653" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -755,7 +753,7 @@
       <window_info id="Web" order="7" sideWeight="0.5017361" side_tool="true" weight="0.21030043" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.49892703" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49839056" visible="true" weight="0.40333334" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49839056" weight="0.40333334" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49839056" weight="0.36" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="5" />
@@ -847,27 +845,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_22_链表的倒数第K个节点.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_21_调整顺序使奇数位于偶数之前.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_20_表示数值的字符串.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_19_正则表达式匹配.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -1202,16 +1179,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/written_examination/DJI/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/written_examination/HW/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
+        <state relative-caret-position="3060">
           <caret line="103" selection-start-line="103" selection-end-line="103" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1221,15 +1191,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/written_examination/Tencent/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="49" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
+        <state relative-caret-position="1470">
+          <caret line="49" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/written_examination/DJI/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/written_examination/Tencent/Main2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        <state relative-caret-position="150">
+          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/written_examination/perfectWorld/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/written_examination/perfectWorld/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1052">
+          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/written_examination/perfectWorld/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
         </state>
       </provider>
     </entry>
