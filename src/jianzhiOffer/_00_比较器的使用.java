@@ -25,6 +25,7 @@ public class _00_比较器的使用 {
         //升序
         @Override
         public int compare(String o1, String o2) {
+
             return (o1 + o2).compareTo(o2+o1);
         }
     }
@@ -34,6 +35,7 @@ public class _00_比较器的使用 {
         Arrays.sort(arr, new Comparator<Integer>() {
             @Override
             public int compare(Integer o1, Integer o2) {
+
                 return o2 - o1;
             }
         });
@@ -45,6 +47,7 @@ public class _00_比较器的使用 {
         Arrays.sort(arrStu, new Comparator<Stu>() {
             @Override
             public int compare(Stu o1, Stu o2) {
+
                 return o2.id - o1.id;
             }
         });
