@@ -9,7 +9,6 @@ public class Main {
     public static int getHeight(int n){
         int end=0;
         int start=0;
-
         while(n>end){
             start=end+1;
             end=start+(int)Math.pow(3,++height)-1;

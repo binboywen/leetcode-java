@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09605ec9-fcd9-4732-a990-596df1703113" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/written_examination/jingDong2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/written_examination/Oppo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/written_examination/nonghang/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/written_examination/nonghang/Main3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhiOffer/_00_比较器的使用.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhiOffer/_00_比较器的使用.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/written_examination/jingDong2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/written_examination/jingDong2/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/../s2gciy/miaosha_1/target/" />
@@ -27,54 +29,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/written_examination/Tencent/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1470">
-              <caret line="49" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/written_examination/Tencent/Main2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/written_examination/perfectWorld/Main1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/written_examination/perfectWorld/Main2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1230">
-              <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/written_examination/perfectWorld/Main3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1650">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_00_比较器的使用.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1440">
+            <state relative-caret-position="1830">
               <caret line="63" column="11" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="11" />
               <folding>
                 <element signature="e#275#276#0" expanded="true" />
@@ -87,10 +44,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/written_examination/nonghang/Main2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/written_examination/Oppo/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1080">
+              <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/written_examination/nonghang/Main3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1500">
+              <caret line="50" column="57" lean-forward="true" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_03_数组中找重复的数字.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="92" column="13" lean-forward="true" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="13" />
+            <state relative-caret-position="2760">
+              <caret line="92" column="13" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -98,20 +88,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_49_丑数.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-838">
+            <state relative-caret-position="270">
               <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/written_examination/jingDong2/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            <state relative-caret-position="630">
+              <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/util/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="247" column="51" lean-forward="true" selection-start-line="247" selection-start-column="51" selection-end-line="247" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/written_examination/jingDong2/MW.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -145,11 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/jianzhiOffer/_50_第一个只出现一次的字符.java" />
-        <option value="$PROJECT_DIR$/src/jianzhiOffer/_51_InversePairs.java" />
-        <option value="$PROJECT_DIR$/src/jianzhiOffer/_51_数组中逆序对.java" />
-        <option value="$PROJECT_DIR$/src/jianzhiOffer/_51_数组中逆序对_.java" />
-        <option value="$PROJECT_DIR$/src/jianzhiOffer/_51_数组中的逆序对.java" />
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_52_FindFirstCommonNode.java" />
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_52_两个链表的第一个公共节点.java" />
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_53_1_在排序数组中查找数字.java" />
@@ -195,7 +198,12 @@
         <option value="$PROJECT_DIR$/src/written_examination/perfectWorld/Main2.java" />
         <option value="$PROJECT_DIR$/src/written_examination/perfectWorld/Main3.java" />
         <option value="$PROJECT_DIR$/src/jianzhiOffer/_00_比较器的使用.java" />
+        <option value="$PROJECT_DIR$/src/written_examination/jingDong2/MW.java" />
         <option value="$PROJECT_DIR$/src/written_examination/jingDong2/Main.java" />
+        <option value="$PROJECT_DIR$/src/written_examination/Test/Main.java" />
+        <option value="$PROJECT_DIR$/src/written_examination/nonghang/Main2.java" />
+        <option value="$PROJECT_DIR$/src/written_examination/nonghang/Main3.java" />
+        <option value="$PROJECT_DIR$/src/written_examination/Oppo/Main.java" />
       </list>
     </option>
   </component>
@@ -206,10 +214,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator currentView="PackagesPane" proportions="" version="1">
@@ -244,7 +251,7 @@
               <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
               <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
               <item name="written_examination" type="1f31426a:PackageElementNode" />
-              <item name="jingDong2" type="1f31426a:PackageElementNode" />
+              <item name="Oppo" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -282,13 +289,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="written_examination.Tencent.Main" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="written_examination.Tencent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="written_examination.Oppo.Main" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="written_examination.Oppo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -335,26 +355,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="written_examination.meituan.test" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="written_examination.meituan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main1" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -479,7 +486,8 @@
       <workItem from="1598186311326" duration="3450000" />
       <workItem from="1598342361847" duration="3840000" />
       <workItem from="1598428045043" duration="1439000" />
-      <workItem from="1598528214105" duration="4418000" />
+      <workItem from="1598528214105" duration="6415000" />
+      <workItem from="1598575976739" duration="9410000" />
     </task>
     <task id="LOCAL-00001" summary="commit &quot;modify files&quot;">
       <created>1595254282864</created>
@@ -747,17 +755,24 @@
       <option name="project" value="LOCAL" />
       <updated>1598359888171</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="commit &quot;modify files&quot;">
+      <created>1598532968640</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1598532968640</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="846850000" />
+    <option name="totallyTimeSpent" value="858257000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4982639" visible="true" weight="0.2274678" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4982639" visible="true" weight="0.17489271" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -767,12 +782,12 @@
       <window_info id="Web" order="7" sideWeight="0.5017361" side_tool="true" weight="0.21030043" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.49892703" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49839056" weight="0.40333334" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" weight="0.40333334" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49839056" weight="0.36" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="5" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50160944" side_tool="true" weight="0.36" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50214595" side_tool="true" weight="0.40333334" />
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
@@ -859,48 +874,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_17_打印从1到最大的N位数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="106" column="28" selection-start-line="106" selection-start-column="28" selection-end-line="106" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_16_数值的整数次方.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_15_二进制中1的个数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="1311" column="33" selection-start-line="1311" selection-start-column="33" selection-end-line="1311" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/util/ComparableTimSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11771">
-          <caret line="178" column="16" selection-start-line="178" selection-start-column="16" selection-end-line="178" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/written_examination/yuanFuDao/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/written_examination/yuanFuDao/Main1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1200,16 +1173,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_00_比较器的使用.java">
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_03_数组中找重复的数字.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="63" column="11" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="11" />
-          <folding>
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="2760">
+          <caret line="92" column="13" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_49_丑数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/written_examination/jingDong2/MW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -1220,24 +1201,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_03_数组中找重复的数字.java">
+    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="92" column="13" lean-forward="true" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="13" />
+        <state relative-caret-position="169">
+          <caret line="247" column="51" lean-forward="true" selection-start-line="247" selection-start-column="51" selection-end-line="247" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_49_丑数.java">
+    <entry file="file://$PROJECT_DIR$/src/written_examination/Test/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-838">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="150">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/written_examination/jingDong2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        <state relative-caret-position="630">
+          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhiOffer/_00_比较器的使用.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1830">
+          <caret line="63" column="11" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="11" />
+          <folding>
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/written_examination/nonghang/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="50" column="57" lean-forward="true" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/written_examination/nonghang/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/written_examination/Oppo/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
